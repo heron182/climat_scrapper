@@ -2,6 +2,8 @@
 A simple climatempo web scrapper that gets climatology information about cities over the year.
 
 
+Python 3.6+ / 2.7+
+
 ### Usage:
     $ climat_scrapper: pip install -e .
     $ climat_scrapper: climat_scrapper [city_limit]
