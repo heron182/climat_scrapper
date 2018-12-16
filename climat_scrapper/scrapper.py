@@ -142,8 +142,9 @@ def main():
     try:
         city_limit = int(sys.argv[1])
         logger.info("Using custom city scrapper limit %s", city_limit)
+        scrape(url, driver, city_limit)
 
     except IndexError:
-        logger.info("Using default city scrapper limit %s", city_limit)
+        logger.info("Using default city scrapper limit %s", CITY_LIMIT)
+        scrape(url, driver, CITY_LIMIT)
 
-    scrape(url, driver, city_limit)
