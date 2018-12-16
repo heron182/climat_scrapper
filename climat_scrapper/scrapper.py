@@ -21,7 +21,8 @@ from .utils import dump_cities, wait_for_element
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("scrapper")
 
-CITY_DATA = []
+cities_list = []
+
 
 def cities_from_state(state, driver):
     EXCLUDE_STATE_OPTS = ["Nome do Estado", "BUSCANDO..."]
@@ -48,7 +49,7 @@ def cities_from_state(state, driver):
         yield city
 
 
-def scrape_city_data(current_city, current_state, driver):
+def scrape_city_data(current_city, current_state, driver, city_limit):
     EXCLUDE_CITY_OPTS = ["Nome da Cidade", "BUSCANDO..."]
     if current_city in EXCLUDE_CITY_OPTS:
         return
@@ -84,10 +85,10 @@ def scrape_city_data(current_city, current_state, driver):
     df.insert(1, "Estado", current_state)
     df.assign(Cidade=current_city, Estado=current_state)
 
-    CITY_DATA.append(df)
-    if len(CITY_DATA) > CITY_LIMIT:
-        logger.info("%s cities scrapped. Exiting..." % CITY_LIMIT)
-        dump_cities(CITY_DATA)
+    cities_list.append(df)
+    if len(cities_list) == city_limit:
+        logger.info("%s cities scrapped. Exiting..." % city_limit)
+        dump_cities(cities_list)
 
     wait_for_element(driver, (By.CSS_SELECTOR, MODAL_SELECTOR))
     driver.execute_script(
@@ -97,7 +98,7 @@ def scrape_city_data(current_city, current_state, driver):
     logger.info("Going back to city select")
 
 
-def scrape(url, driver):
+def scrape(url, driver, city_limit=CITY_LIMIT):
     driver.get(url)
 
     wait_for_element(driver, (By.CSS_SELECTOR, MODAL_SELECTOR))
@@ -118,7 +119,7 @@ def scrape(url, driver):
 
         for city in cities_from_state(current_state, driver):
             current_city = getattr(city, "text", city)
-            scrape_city_data(current_city, current_state, driver)
+            scrape_city_data(current_city, current_state, driver, city_limit)
 
 
 def main():
@@ -139,10 +140,10 @@ def main():
     driver = webdriver.Chrome(desired_capabilities=caps, chrome_options=chrome_options)
 
     try:
-        CITY_LIMIT = int(sys.argv[1])  # NOQA
-        logger.info("Using custom city scrapper limit %s", CITY_LIMIT)
+        city_limit = int(sys.argv[1])
+        logger.info("Using custom city scrapper limit %s", city_limit)
 
     except IndexError:
-        logger.info("Using default city scrapper limit %s", CITY_LIMIT)
+        logger.info("Using default city scrapper limit %s", city_limit)
 
-    scrape(url, driver)
+    scrape(url, driver, city_limit)
