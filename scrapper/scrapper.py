@@ -1,5 +1,5 @@
-import json
 import logging
+import sys
 
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -11,10 +11,10 @@ from selenium.webdriver.support.ui import Select
 
 from scrapper.contants import (
     BTN_SELECTOR,
+    CITY_LIMIT,
     CITY_SELECTOR,
     MODAL_SELECTOR,
     STATE_SELECTOR,
-    CITY_LIMIT,
 )
 from scrapper.utils import dump_cities, wait_for_element
 
@@ -79,13 +79,13 @@ def scrape_city_data(current_city, current_state, driver):
     table = data_source.select("table.left")[0]
 
     df = pd.read_html(str(table), header=0)[0]
-    df.insert(1, "Cidade", current_city)
+    df.insert(0, "Cidade", current_city)
     df.insert(1, "Estado", current_state)
     df.assign(Cidade=current_city, Estado=current_state)
 
     detailist.append(df)
     if len(detailist) > CITY_LIMIT:
-        logger.info("101 cities scrapped. Exiting...")
+        logger.info("%s cities scrapped. Exiting..." % CITY_LIMIT)
         dump_cities(detailist)
 
     wait_for_element(driver, (By.CSS_SELECTOR, MODAL_SELECTOR))
@@ -97,7 +97,6 @@ def scrape_city_data(current_city, current_state, driver):
 
 
 def scrape(url, driver):
-    logger.info("Getting url %s", url)
     driver.get(url)
 
     wait_for_element(driver, (By.CSS_SELECTOR, MODAL_SELECTOR))
@@ -139,5 +138,12 @@ if __name__ == "__main__":
     driver = webdriver.Chrome(desired_capabilities=caps, chrome_options=chrome_options)
 
     detailist = []
+
+    try:
+        CITY_LIMIT = int(sys.argv[1])  # NOQA
+        logger.info("Using custom city scrapper limit %s", CITY_LIMIT)
+
+    except IndexError:
+        logger.info("Using default city scrapper limit %s", CITY_LIMIT)
 
     scrape(url, driver)
