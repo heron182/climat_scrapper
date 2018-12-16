@@ -14,6 +14,7 @@ from scrapper.contants import (
     CITY_SELECTOR,
     MODAL_SELECTOR,
     STATE_SELECTOR,
+    CITY_LIMIT,
 )
 from scrapper.utils import dump_cities, wait_for_element
 
@@ -83,7 +84,7 @@ def scrape_city_data(current_city, current_state, driver):
     df.assign(Cidade=current_city, Estado=current_state)
 
     detailist.append(df)
-    if len(detailist) > 1:
+    if len(detailist) > CITY_LIMIT:
         logger.info("101 cities scrapped. Exiting...")
         dump_cities(detailist)
 
