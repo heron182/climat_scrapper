@@ -19,7 +19,7 @@ from .constants import (
 from .utils import dump_cities, wait_for_element
 
 logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger("scrapper")
+logger = logging.getLogger(__name__)
 
 cities_list = []
 

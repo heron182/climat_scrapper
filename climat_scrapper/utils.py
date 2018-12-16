@@ -57,6 +57,13 @@ def wait_for_element(driver, locator, text=None, opts_length_gt=0):
 
             return False
 
+        logger.error(
+            "Timeout fetching URL %s. (%s,%s,%s)",
+            driver.current_url,
+            locator,
+            text,
+            opts_length_gt,
+        )
         raise
 
 
