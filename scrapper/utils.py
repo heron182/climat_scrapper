@@ -52,7 +52,7 @@ def wait_for_element(driver, locator, text=None, opts_length_gt=0):
         if driver.current_url == "https://www.climatempo.com.br/ops":
             logger.info("URL not available, trying next city...")
             driver.get(url)
-            wait_for_element((By.CSS_SELECTOR, MODAL_SELECTOR))
+            wait_for_element(driver, (By.CSS_SELECTOR, MODAL_SELECTOR))
             driver.find_element_by_css_selector(MODAL_SELECTOR).click()
 
             return False
