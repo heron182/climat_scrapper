@@ -1,1201 +1,1201 @@
-Mês,Estado,Cidade,Minima (°C),Máxima (°C),Precipitação (mm)
-Janeiro,Acre,Rio Branco,21°,31°,289
-Fevereiro,Acre,Rio Branco,21°,31°,285
-Março,Acre,Rio Branco,21°,31°,230
-Abril,Acre,Rio Branco,21°,31°,190
-Maio,Acre,Rio Branco,19°,31°,93
-Junho,Acre,Rio Branco,18°,30°,32
-Julho,Acre,Rio Branco,17°,31°,44
-Agosto,Acre,Rio Branco,17°,33°,38
-Setembro,Acre,Rio Branco,19°,33°,90
-Outubro,Acre,Rio Branco,21°,33°,171
-Novembro,Acre,Rio Branco,21°,32°,221
-Dezembro,Acre,Rio Branco,21°,31°,265
-Janeiro,Acre,Acrelândia,23°,29°,298
-Fevereiro,Acre,Acrelândia,23°,28°,286
-Março,Acre,Acrelândia,23°,28°,290
-Abril,Acre,Acrelândia,22°,29°,210
-Maio,Acre,Acrelândia,21°,29°,107
-Junho,Acre,Acrelândia,20°,31°,38
-Julho,Acre,Acrelândia,20°,32°,24
-Agosto,Acre,Acrelândia,22°,35°,42
-Setembro,Acre,Acrelândia,24°,35°,97
-Outubro,Acre,Acrelândia,23°,33°,169
-Novembro,Acre,Acrelândia,23°,31°,233
-Dezembro,Acre,Acrelândia,23°,29°,252
-Janeiro,Acre,Assis Brasil,22°,29°,243
-Fevereiro,Acre,Assis Brasil,22°,28°,247
-Março,Acre,Assis Brasil,22°,28°,214
-Abril,Acre,Assis Brasil,21°,29°,167
-Maio,Acre,Assis Brasil,20°,29°,80
-Junho,Acre,Assis Brasil,19°,30°,22
-Julho,Acre,Assis Brasil,19°,31°,22
-Agosto,Acre,Assis Brasil,21°,34°,35
-Setembro,Acre,Assis Brasil,23°,34°,84
-Outubro,Acre,Assis Brasil,23°,33°,145
-Novembro,Acre,Assis Brasil,23°,31°,203
-Dezembro,Acre,Assis Brasil,22°,29°,235
-Janeiro,Acre,Brasiléia,23°,29°,251
-Fevereiro,Acre,Brasiléia,22°,28°,236
-Março,Acre,Brasiléia,22°,28°,215
-Abril,Acre,Brasiléia,22°,29°,152
-Maio,Acre,Brasiléia,20°,29°,70
-Junho,Acre,Brasiléia,19°,30°,28
-Julho,Acre,Brasiléia,19°,31°,21
-Agosto,Acre,Brasiléia,21°,34°,41
-Setembro,Acre,Brasiléia,23°,35°,89
-Outubro,Acre,Brasiléia,23°,33°,135
-Novembro,Acre,Brasiléia,23°,31°,206
-Dezembro,Acre,Brasiléia,23°,29°,222
-Janeiro,Acre,Bujari,23°,29°,280
-Fevereiro,Acre,Bujari,23°,28°,263
-Março,Acre,Bujari,23°,28°,259
-Abril,Acre,Bujari,22°,29°,181
-Maio,Acre,Bujari,21°,29°,94
-Junho,Acre,Bujari,20°,30°,35
-Julho,Acre,Bujari,20°,32°,26
-Agosto,Acre,Bujari,22°,35°,45
-Setembro,Acre,Bujari,24°,35°,82
-Outubro,Acre,Bujari,23°,33°,151
-Novembro,Acre,Bujari,23°,31°,201
-Dezembro,Acre,Bujari,23°,29°,247
-Janeiro,Acre,Capixaba,23°,29°,272
-Fevereiro,Acre,Capixaba,23°,28°,254
-Março,Acre,Capixaba,23°,28°,267
-Abril,Acre,Capixaba,22°,29°,174
-Maio,Acre,Capixaba,20°,29°,85
-Junho,Acre,Capixaba,19°,30°,38
-Julho,Acre,Capixaba,20°,31°,26
-Agosto,Acre,Capixaba,22°,35°,48
-Setembro,Acre,Capixaba,24°,35°,95
-Outubro,Acre,Capixaba,23°,33°,157
-Novembro,Acre,Capixaba,23°,31°,200
-Dezembro,Acre,Capixaba,23°,29°,248
-Janeiro,Acre,Cruzeiro do Sul,20°,31°,258
-Fevereiro,Acre,Cruzeiro do Sul,20°,31°,277
-Março,Acre,Cruzeiro do Sul,20°,31°,299
-Abril,Acre,Cruzeiro do Sul,20°,31°,244
-Maio,Acre,Cruzeiro do Sul,19°,31°,163
-Junho,Acre,Cruzeiro do Sul,18°,30°,87
-Julho,Acre,Cruzeiro do Sul,17°,31°,66
-Agosto,Acre,Cruzeiro do Sul,18°,32°,86
-Setembro,Acre,Cruzeiro do Sul,19°,32°,135
-Outubro,Acre,Cruzeiro do Sul,19°,32°,215
-Novembro,Acre,Cruzeiro do Sul,20°,31°,231
-Dezembro,Acre,Cruzeiro do Sul,20°,31°,223
-Janeiro,Acre,Epitaciolândia,23°,29°,251
-Fevereiro,Acre,Epitaciolândia,22°,28°,236
-Março,Acre,Epitaciolândia,22°,28°,215
-Abril,Acre,Epitaciolândia,22°,29°,152
-Maio,Acre,Epitaciolândia,20°,29°,70
-Junho,Acre,Epitaciolândia,19°,30°,28
-Julho,Acre,Epitaciolândia,19°,31°,21
-Agosto,Acre,Epitaciolândia,21°,34°,41
-Setembro,Acre,Epitaciolândia,23°,35°,89
-Outubro,Acre,Epitaciolândia,23°,33°,135
-Novembro,Acre,Epitaciolândia,23°,31°,206
-Dezembro,Acre,Epitaciolândia,23°,29°,222
-Janeiro,Acre,Feijó,23°,29°,273
-Fevereiro,Acre,Feijó,23°,28°,243
-Março,Acre,Feijó,23°,28°,296
-Abril,Acre,Feijó,22°,28°,230
-Maio,Acre,Feijó,21°,29°,154
-Junho,Acre,Feijó,20°,30°,59
-Julho,Acre,Feijó,20°,31°,51
-Agosto,Acre,Feijó,22°,33°,53
-Setembro,Acre,Feijó,23°,33°,94
-Outubro,Acre,Feijó,23°,32°,178
-Novembro,Acre,Feijó,23°,30°,231
-Dezembro,Acre,Feijó,23°,29°,271
-Janeiro,Acre,Jordão,22°,29°,270
-Fevereiro,Acre,Jordão,22°,28°,223
-Março,Acre,Jordão,22°,28°,276
-Abril,Acre,Jordão,21°,28°,209
-Maio,Acre,Jordão,20°,29°,111
-Junho,Acre,Jordão,19°,30°,62
-Julho,Acre,Jordão,19°,31°,41
-Agosto,Acre,Jordão,20°,34°,54
-Setembro,Acre,Jordão,22°,34°,96
-Outubro,Acre,Jordão,22°,32°,171
-Novembro,Acre,Jordão,22°,30°,214
-Dezembro,Acre,Jordão,22°,29°,249
-Janeiro,Acre,Mâncio Lima,23°,29°,246
-Fevereiro,Acre,Mâncio Lima,23°,29°,233
-Março,Acre,Mâncio Lima,23°,28°,276
-Abril,Acre,Mâncio Lima,22°,28°,232
-Maio,Acre,Mâncio Lima,21°,29°,151
-Junho,Acre,Mâncio Lima,20°,29°,92
-Julho,Acre,Mâncio Lima,20°,30°,64
-Agosto,Acre,Mâncio Lima,22°,33°,69
-Setembro,Acre,Mâncio Lima,23°,33°,119
-Outubro,Acre,Mâncio Lima,23°,32°,183
-Novembro,Acre,Mâncio Lima,23°,31°,219
-Dezembro,Acre,Mâncio Lima,23°,29°,242
-Janeiro,Acre,Manoel Urbano,23°,29°,319
-Fevereiro,Acre,Manoel Urbano,23°,28°,259
-Março,Acre,Manoel Urbano,23°,28°,262
-Abril,Acre,Manoel Urbano,22°,28°,213
-Maio,Acre,Manoel Urbano,21°,29°,121
-Junho,Acre,Manoel Urbano,20°,30°,52
-Julho,Acre,Manoel Urbano,20°,31°,35
-Agosto,Acre,Manoel Urbano,22°,34°,49
-Setembro,Acre,Manoel Urbano,23°,34°,97
-Outubro,Acre,Manoel Urbano,23°,32°,169
-Novembro,Acre,Manoel Urbano,23°,31°,241
-Dezembro,Acre,Manoel Urbano,23°,29°,291
-Janeiro,Acre,Marechal Thaumaturgo,23°,29°,225
-Fevereiro,Acre,Marechal Thaumaturgo,22°,29°,202
-Março,Acre,Marechal Thaumaturgo,22°,28°,241
-Abril,Acre,Marechal Thaumaturgo,22°,29°,187
-Maio,Acre,Marechal Thaumaturgo,21°,30°,112
-Junho,Acre,Marechal Thaumaturgo,19°,30°,63
-Julho,Acre,Marechal Thaumaturgo,19°,31°,45
-Agosto,Acre,Marechal Thaumaturgo,21°,34°,56
-Setembro,Acre,Marechal Thaumaturgo,22°,34°,93
-Outubro,Acre,Marechal Thaumaturgo,23°,33°,148
-Novembro,Acre,Marechal Thaumaturgo,23°,31°,196
-Dezembro,Acre,Marechal Thaumaturgo,22°,29°,221
-Janeiro,Acre,Plácido de Castro,23°,29°,299
-Fevereiro,Acre,Plácido de Castro,23°,28°,280
-Março,Acre,Plácido de Castro,23°,28°,300
-Abril,Acre,Plácido de Castro,22°,29°,201
-Maio,Acre,Plácido de Castro,21°,29°,105
-Junho,Acre,Plácido de Castro,20°,30°,47
-Julho,Acre,Plácido de Castro,20°,32°,26
-Agosto,Acre,Plácido de Castro,22°,35°,52
-Setembro,Acre,Plácido de Castro,24°,35°,102
-Outubro,Acre,Plácido de Castro,23°,33°,171
-Novembro,Acre,Plácido de Castro,23°,31°,201
-Dezembro,Acre,Plácido de Castro,23°,29°,274
-Janeiro,Acre,Porto Acre,23°,29°,280
-Fevereiro,Acre,Porto Acre,23°,28°,263
-Março,Acre,Porto Acre,23°,28°,259
-Abril,Acre,Porto Acre,22°,28°,181
-Maio,Acre,Porto Acre,21°,29°,94
-Junho,Acre,Porto Acre,20°,31°,35
-Julho,Acre,Porto Acre,20°,32°,26
-Agosto,Acre,Porto Acre,22°,34°,45
-Setembro,Acre,Porto Acre,24°,34°,82
-Outubro,Acre,Porto Acre,23°,32°,151
-Novembro,Acre,Porto Acre,23°,30°,201
-Dezembro,Acre,Porto Acre,23°,29°,247
-Janeiro,Acre,Porto Walter,23°,29°,253
-Fevereiro,Acre,Porto Walter,22°,28°,232
-Março,Acre,Porto Walter,22°,28°,288
-Abril,Acre,Porto Walter,22°,28°,237
-Maio,Acre,Porto Walter,21°,29°,138
-Junho,Acre,Porto Walter,20°,30°,88
-Julho,Acre,Porto Walter,19°,31°,60
-Agosto,Acre,Porto Walter,21°,33°,67
-Setembro,Acre,Porto Walter,22°,34°,111
-Outubro,Acre,Porto Walter,23°,32°,179
-Novembro,Acre,Porto Walter,23°,30°,217
-Dezembro,Acre,Porto Walter,23°,29°,252
-Janeiro,Acre,Rodrigues Alves,23°,29°,246
-Fevereiro,Acre,Rodrigues Alves,23°,28°,233
-Março,Acre,Rodrigues Alves,23°,28°,276
-Abril,Acre,Rodrigues Alves,22°,28°,232
-Maio,Acre,Rodrigues Alves,21°,29°,151
-Junho,Acre,Rodrigues Alves,20°,29°,92
-Julho,Acre,Rodrigues Alves,20°,30°,64
-Agosto,Acre,Rodrigues Alves,22°,33°,69
-Setembro,Acre,Rodrigues Alves,23°,33°,119
-Outubro,Acre,Rodrigues Alves,23°,31°,183
-Novembro,Acre,Rodrigues Alves,23°,30°,219
-Dezembro,Acre,Rodrigues Alves,23°,29°,242
-Janeiro,Acre,Santa Rosa do Purus,23°,29°,288
-Fevereiro,Acre,Santa Rosa do Purus,22°,28°,262
-Março,Acre,Santa Rosa do Purus,22°,28°,274
-Abril,Acre,Santa Rosa do Purus,22°,29°,197
-Maio,Acre,Santa Rosa do Purus,20°,29°,120
-Junho,Acre,Santa Rosa do Purus,19°,30°,45
-Julho,Acre,Santa Rosa do Purus,19°,31°,36
-Agosto,Acre,Santa Rosa do Purus,21°,34°,48
-Setembro,Acre,Santa Rosa do Purus,23°,34°,93
-Outubro,Acre,Santa Rosa do Purus,23°,33°,171
-Novembro,Acre,Santa Rosa do Purus,23°,31°,239
-Dezembro,Acre,Santa Rosa do Purus,22°,29°,271
-Janeiro,Acre,Senador Guiomard,23°,29°,273
-Fevereiro,Acre,Senador Guiomard,23°,28°,254
-Março,Acre,Senador Guiomard,23°,28°,261
-Abril,Acre,Senador Guiomard,22°,29°,176
-Maio,Acre,Senador Guiomard,21°,29°,89
-Junho,Acre,Senador Guiomard,20°,30°,38
-Julho,Acre,Senador Guiomard,20°,32°,26
-Agosto,Acre,Senador Guiomard,22°,35°,48
-Setembro,Acre,Senador Guiomard,24°,34°,88
-Outubro,Acre,Senador Guiomard,23°,33°,154
-Novembro,Acre,Senador Guiomard,23°,31°,194
-Dezembro,Acre,Senador Guiomard,23°,29°,246
-Janeiro,Acre,Sena Madureira,23°,29°,282
-Fevereiro,Acre,Sena Madureira,23°,28°,263
-Março,Acre,Sena Madureira,23°,28°,249
-Abril,Acre,Sena Madureira,22°,28°,180
-Maio,Acre,Sena Madureira,21°,29°,109
-Junho,Acre,Sena Madureira,20°,31°,41
-Julho,Acre,Sena Madureira,20°,32°,31
-Agosto,Acre,Sena Madureira,22°,34°,44
-Setembro,Acre,Sena Madureira,23°,34°,91
-Outubro,Acre,Sena Madureira,23°,32°,160
-Novembro,Acre,Sena Madureira,23°,31°,231
-Dezembro,Acre,Sena Madureira,23°,29°,257
-Janeiro,Acre,Tarauacá,22°,31°,287
-Fevereiro,Acre,Tarauacá,22°,31°,264
-Março,Acre,Tarauacá,22°,31°,309
-Abril,Acre,Tarauacá,22°,31°,198
-Maio,Acre,Tarauacá,21°,31°,121
-Junho,Acre,Tarauacá,19°,31°,53
-Julho,Acre,Tarauacá,19°,31°,65
-Agosto,Acre,Tarauacá,19°,32°,80
-Setembro,Acre,Tarauacá,20°,32°,104
-Outubro,Acre,Tarauacá,21°,32°,197
-Novembro,Acre,Tarauacá,22°,32°,242
-Dezembro,Acre,Tarauacá,22°,31°,272
-Janeiro,Acre,Xapuri,23°,29°,254
-Fevereiro,Acre,Xapuri,22°,28°,240
-Março,Acre,Xapuri,22°,28°,223
-Abril,Acre,Xapuri,22°,29°,156
-Maio,Acre,Xapuri,20°,29°,72
-Junho,Acre,Xapuri,19°,30°,26
-Julho,Acre,Xapuri,19°,31°,22
-Agosto,Acre,Xapuri,22°,35°,40
-Setembro,Acre,Xapuri,23°,35°,88
-Outubro,Acre,Xapuri,23°,33°,138
-Novembro,Acre,Xapuri,23°,31°,204
-Dezembro,Acre,Xapuri,23°,29°,228
-Janeiro,Alagoas,Maceió,22°,30°,78
-Fevereiro,Alagoas,Maceió,23°,30°,88
-Março,Alagoas,Maceió,23°,30°,195
-Abril,Alagoas,Maceió,23°,30°,269
-Maio,Alagoas,Maceió,22°,29°,382
-Junho,Alagoas,Maceió,21°,28°,332
-Julho,Alagoas,Maceió,21°,27°,274
-Agosto,Alagoas,Maceió,20°,27°,155
-Setembro,Alagoas,Maceió,21°,28°,130
-Outubro,Alagoas,Maceió,21°,29°,74
-Novembro,Alagoas,Maceió,22°,30°,32
-Dezembro,Alagoas,Maceió,22°,30°,63
-Janeiro,Alagoas,Água Branca,23°,34°,46
-Fevereiro,Alagoas,Água Branca,23°,34°,46
-Março,Alagoas,Água Branca,23°,33°,84
-Abril,Alagoas,Água Branca,22°,32°,68
-Maio,Alagoas,Água Branca,21°,30°,69
-Junho,Alagoas,Água Branca,20°,27°,79
-Julho,Alagoas,Água Branca,19°,27°,75
-Agosto,Alagoas,Água Branca,19°,28°,39
-Setembro,Alagoas,Água Branca,20°,31°,19
-Outubro,Alagoas,Água Branca,21°,33°,14
-Novembro,Alagoas,Água Branca,22°,34°,19
-Dezembro,Alagoas,Água Branca,23°,34°,42
-Janeiro,Alagoas,Anadia,20°,30°,50
-Fevereiro,Alagoas,Anadia,21°,30°,55
-Março,Alagoas,Anadia,21°,30°,94
-Abril,Alagoas,Anadia,20°,28°,142
-Maio,Alagoas,Anadia,20°,26°,168
-Junho,Alagoas,Anadia,19°,24°,204
-Julho,Alagoas,Anadia,18°,23°,178
-Agosto,Alagoas,Anadia,18°,23°,116
-Setembro,Alagoas,Anadia,18°,25°,76
-Outubro,Alagoas,Anadia,19°,28°,42
-Novembro,Alagoas,Anadia,20°,30°,28
-Dezembro,Alagoas,Anadia,20°,30°,33
-Janeiro,Alagoas,Arapiraca,22°,31°,39
-Fevereiro,Alagoas,Arapiraca,23°,31°,37
-Março,Alagoas,Arapiraca,23°,31°,66
-Abril,Alagoas,Arapiraca,22°,29°,89
-Maio,Alagoas,Arapiraca,21°,27°,111
-Junho,Alagoas,Arapiraca,21°,25°,128
-Julho,Alagoas,Arapiraca,20°,25°,108
-Agosto,Alagoas,Arapiraca,20°,25°,71
-Setembro,Alagoas,Arapiraca,20°,26°,45
-Outubro,Alagoas,Arapiraca,21°,29°,26
-Novembro,Alagoas,Arapiraca,22°,30°,19
-Dezembro,Alagoas,Arapiraca,22°,31°,26
-Janeiro,Alagoas,Atalaia,21°,30°,50
-Fevereiro,Alagoas,Atalaia,22°,30°,55
-Março,Alagoas,Atalaia,22°,30°,94
-Abril,Alagoas,Atalaia,21°,29°,142
-Maio,Alagoas,Atalaia,20°,27°,168
-Junho,Alagoas,Atalaia,20°,25°,204
-Julho,Alagoas,Atalaia,19°,24°,178
-Agosto,Alagoas,Atalaia,18°,24°,116
-Setembro,Alagoas,Atalaia,19°,26°,76
-Outubro,Alagoas,Atalaia,20°,28°,42
-Novembro,Alagoas,Atalaia,21°,30°,28
-Dezembro,Alagoas,Atalaia,21°,30°,33
-Janeiro,Alagoas,Barra de Santo Antônio,24°,29°,63
-Fevereiro,Alagoas,Barra de Santo Antônio,25°,30°,77
-Março,Alagoas,Barra de Santo Antônio,25°,30°,112
-Abril,Alagoas,Barra de Santo Antônio,24°,29°,165
-Maio,Alagoas,Barra de Santo Antônio,24°,28°,189
-Junho,Alagoas,Barra de Santo Antônio,23°,26°,232
-Julho,Alagoas,Barra de Santo Antônio,23°,26°,223
-Agosto,Alagoas,Barra de Santo Antônio,22°,26°,154
-Setembro,Alagoas,Barra de Santo Antônio,23°,26°,85
-Outubro,Alagoas,Barra de Santo Antônio,23°,28°,49
-Novembro,Alagoas,Barra de Santo Antônio,24°,29°,36
-Dezembro,Alagoas,Barra de Santo Antônio,24°,29°,38
-Janeiro,Alagoas,Barra de São Miguel,25°,29°,65
-Fevereiro,Alagoas,Barra de São Miguel,25°,30°,86
-Março,Alagoas,Barra de São Miguel,25°,30°,132
-Abril,Alagoas,Barra de São Miguel,25°,29°,213
-Maio,Alagoas,Barra de São Miguel,24°,28°,234
-Junho,Alagoas,Barra de São Miguel,24°,26°,277
-Julho,Alagoas,Barra de São Miguel,23°,25°,243
-Agosto,Alagoas,Barra de São Miguel,23°,25°,152
-Setembro,Alagoas,Barra de São Miguel,23°,26°,95
-Outubro,Alagoas,Barra de São Miguel,24°,28°,54
-Novembro,Alagoas,Barra de São Miguel,24°,29°,42
-Dezembro,Alagoas,Barra de São Miguel,25°,29°,44
-Janeiro,Alagoas,Batalha,22°,32°,39
-Fevereiro,Alagoas,Batalha,22°,32°,36
-Março,Alagoas,Batalha,22°,32°,67
-Abril,Alagoas,Batalha,21°,30°,70
-Maio,Alagoas,Batalha,20°,28°,90
-Junho,Alagoas,Batalha,19°,25°,104
-Julho,Alagoas,Batalha,18°,25°,87
-Agosto,Alagoas,Batalha,18°,25°,56
-Setembro,Alagoas,Batalha,19°,28°,30
-Outubro,Alagoas,Batalha,20°,30°,18
-Novembro,Alagoas,Batalha,21°,32°,20
-Dezembro,Alagoas,Batalha,22°,32°,26
-Janeiro,Alagoas,Belém,20°,30°,50
-Fevereiro,Alagoas,Belém,21°,30°,55
-Março,Alagoas,Belém,21°,30°,94
-Abril,Alagoas,Belém,20°,28°,142
-Maio,Alagoas,Belém,20°,26°,168
-Junho,Alagoas,Belém,19°,24°,204
-Julho,Alagoas,Belém,18°,23°,178
-Agosto,Alagoas,Belém,18°,23°,116
-Setembro,Alagoas,Belém,18°,25°,76
-Outubro,Alagoas,Belém,19°,28°,42
-Novembro,Alagoas,Belém,20°,30°,28
-Dezembro,Alagoas,Belém,20°,30°,33
-Janeiro,Alagoas,Belo Monte,22°,33°,39
-Fevereiro,Alagoas,Belo Monte,23°,33°,36
-Março,Alagoas,Belo Monte,23°,33°,67
-Abril,Alagoas,Belo Monte,22°,31°,70
-Maio,Alagoas,Belo Monte,21°,29°,90
-Junho,Alagoas,Belo Monte,20°,26°,104
-Julho,Alagoas,Belo Monte,19°,26°,87
-Agosto,Alagoas,Belo Monte,19°,26°,56
-Setembro,Alagoas,Belo Monte,19°,29°,30
-Outubro,Alagoas,Belo Monte,21°,31°,18
-Novembro,Alagoas,Belo Monte,22°,33°,20
-Dezembro,Alagoas,Belo Monte,22°,33°,26
-Janeiro,Alagoas,Boca da Mata,21°,30°,50
-Fevereiro,Alagoas,Boca da Mata,22°,30°,55
-Março,Alagoas,Boca da Mata,22°,30°,94
-Abril,Alagoas,Boca da Mata,21°,29°,142
-Maio,Alagoas,Boca da Mata,20°,27°,168
-Junho,Alagoas,Boca da Mata,20°,25°,204
-Julho,Alagoas,Boca da Mata,19°,24°,178
-Agosto,Alagoas,Boca da Mata,18°,24°,116
-Setembro,Alagoas,Boca da Mata,19°,26°,76
-Outubro,Alagoas,Boca da Mata,20°,28°,42
-Novembro,Alagoas,Boca da Mata,21°,30°,28
-Dezembro,Alagoas,Boca da Mata,21°,30°,33
-Janeiro,Alagoas,Branquinha,19°,29°,54
-Fevereiro,Alagoas,Branquinha,20°,29°,61
-Março,Alagoas,Branquinha,20°,29°,93
-Abril,Alagoas,Branquinha,19°,28°,128
-Maio,Alagoas,Branquinha,19°,26°,148
-Junho,Alagoas,Branquinha,18°,24°,195
-Julho,Alagoas,Branquinha,18°,23°,186
-Agosto,Alagoas,Branquinha,17°,23°,127
-Setembro,Alagoas,Branquinha,17°,25°,70
-Outubro,Alagoas,Branquinha,18°,27°,35
-Novembro,Alagoas,Branquinha,19°,29°,25
-Dezembro,Alagoas,Branquinha,19°,29°,32
-Janeiro,Alagoas,Cacimbinhas,22°,32°,40
-Fevereiro,Alagoas,Cacimbinhas,22°,32°,48
-Março,Alagoas,Cacimbinhas,22°,32°,71
-Abril,Alagoas,Cacimbinhas,21°,30°,89
-Maio,Alagoas,Cacimbinhas,20°,28°,95
-Junho,Alagoas,Cacimbinhas,19°,25°,127
-Julho,Alagoas,Cacimbinhas,18°,25°,111
-Agosto,Alagoas,Cacimbinhas,18°,25°,74
-Setembro,Alagoas,Cacimbinhas,19°,28°,40
-Outubro,Alagoas,Cacimbinhas,20°,30°,21
-Novembro,Alagoas,Cacimbinhas,21°,32°,18
-Dezembro,Alagoas,Cacimbinhas,22°,32°,30
-Janeiro,Alagoas,Cajueiro,21°,30°,54
-Fevereiro,Alagoas,Cajueiro,22°,30°,61
-Março,Alagoas,Cajueiro,22°,30°,93
-Abril,Alagoas,Cajueiro,21°,29°,128
-Maio,Alagoas,Cajueiro,20°,27°,148
-Junho,Alagoas,Cajueiro,20°,25°,195
-Julho,Alagoas,Cajueiro,19°,24°,186
-Agosto,Alagoas,Cajueiro,18°,24°,127
-Setembro,Alagoas,Cajueiro,19°,26°,70
-Outubro,Alagoas,Cajueiro,20°,28°,35
-Novembro,Alagoas,Cajueiro,21°,30°,25
-Dezembro,Alagoas,Cajueiro,21°,30°,32
-Janeiro,Alagoas,Campestre,21°,29°,68
-Fevereiro,Alagoas,Campestre,22°,30°,71
-Março,Alagoas,Campestre,22°,30°,117
-Abril,Alagoas,Campestre,21°,29°,142
-Maio,Alagoas,Campestre,21°,27°,164
-Junho,Alagoas,Campestre,21°,25°,214
-Julho,Alagoas,Campestre,20°,24°,204
-Agosto,Alagoas,Campestre,20°,25°,141
-Setembro,Alagoas,Campestre,20°,26°,72
-Outubro,Alagoas,Campestre,20°,27°,38
-Novembro,Alagoas,Campestre,21°,29°,31
-Dezembro,Alagoas,Campestre,21°,29°,34
-Janeiro,Alagoas,Campo Alegre,22°,31°,50
-Fevereiro,Alagoas,Campo Alegre,23°,31°,55
-Março,Alagoas,Campo Alegre,23°,31°,94
-Abril,Alagoas,Campo Alegre,22°,29°,142
-Maio,Alagoas,Campo Alegre,21°,27°,168
-Junho,Alagoas,Campo Alegre,21°,25°,204
-Julho,Alagoas,Campo Alegre,20°,25°,178
-Agosto,Alagoas,Campo Alegre,20°,25°,116
-Setembro,Alagoas,Campo Alegre,20°,26°,76
-Outubro,Alagoas,Campo Alegre,21°,29°,42
-Novembro,Alagoas,Campo Alegre,22°,30°,28
-Dezembro,Alagoas,Campo Alegre,22°,31°,33
-Janeiro,Alagoas,Campo Grande,22°,32°,39
-Fevereiro,Alagoas,Campo Grande,23°,32°,37
-Março,Alagoas,Campo Grande,23°,32°,66
-Abril,Alagoas,Campo Grande,21°,31°,89
-Maio,Alagoas,Campo Grande,21°,28°,111
-Junho,Alagoas,Campo Grande,20°,26°,128
-Julho,Alagoas,Campo Grande,19°,25°,108
-Agosto,Alagoas,Campo Grande,19°,26°,71
-Setembro,Alagoas,Campo Grande,19°,28°,45
-Outubro,Alagoas,Campo Grande,20°,30°,26
-Novembro,Alagoas,Campo Grande,21°,32°,19
-Dezembro,Alagoas,Campo Grande,22°,33°,26
-Janeiro,Alagoas,Canafístula,20°,30°,40
-Fevereiro,Alagoas,Canafístula,21°,30°,48
-Março,Alagoas,Canafístula,21°,30°,71
-Abril,Alagoas,Canafístula,20°,28°,89
-Maio,Alagoas,Canafístula,20°,26°,95
-Junho,Alagoas,Canafístula,19°,24°,127
-Julho,Alagoas,Canafístula,18°,23°,111
-Agosto,Alagoas,Canafístula,18°,23°,74
-Setembro,Alagoas,Canafístula,18°,25°,40
-Outubro,Alagoas,Canafístula,19°,28°,21
-Novembro,Alagoas,Canafístula,20°,30°,18
-Dezembro,Alagoas,Canafístula,20°,30°,30
-Janeiro,Alagoas,Canapi,21°,32°,46
-Fevereiro,Alagoas,Canapi,22°,32°,46
-Março,Alagoas,Canapi,22°,32°,84
-Abril,Alagoas,Canapi,21°,31°,68
-Maio,Alagoas,Canapi,20°,29°,69
-Junho,Alagoas,Canapi,19°,26°,79
-Julho,Alagoas,Canapi,18°,26°,75
-Agosto,Alagoas,Canapi,18°,26°,39
-Setembro,Alagoas,Canapi,19°,29°,19
-Outubro,Alagoas,Canapi,20°,32°,14
-Novembro,Alagoas,Canapi,21°,33°,19
-Dezembro,Alagoas,Canapi,21°,33°,42
-Janeiro,Alagoas,Capela,21°,30°,54
-Fevereiro,Alagoas,Capela,22°,30°,61
-Março,Alagoas,Capela,22°,30°,93
-Abril,Alagoas,Capela,21°,29°,128
-Maio,Alagoas,Capela,20°,27°,148
-Junho,Alagoas,Capela,20°,25°,195
-Julho,Alagoas,Capela,19°,24°,186
-Agosto,Alagoas,Capela,18°,24°,127
-Setembro,Alagoas,Capela,19°,26°,70
-Outubro,Alagoas,Capela,20°,28°,35
-Novembro,Alagoas,Capela,21°,30°,25
-Dezembro,Alagoas,Capela,21°,30°,32
-Janeiro,Alagoas,Carneiros,23°,33°,41
-Fevereiro,Alagoas,Carneiros,23°,33°,44
-Março,Alagoas,Carneiros,23°,33°,73
-Abril,Alagoas,Carneiros,21°,32°,72
-Maio,Alagoas,Carneiros,21°,29°,77
-Junho,Alagoas,Carneiros,20°,27°,98
-Julho,Alagoas,Carneiros,19°,26°,85
-Agosto,Alagoas,Carneiros,19°,27°,52
-Setembro,Alagoas,Carneiros,19°,30°,26
-Outubro,Alagoas,Carneiros,21°,32°,16
-Novembro,Alagoas,Carneiros,22°,34°,18
-Dezembro,Alagoas,Carneiros,23°,34°,34
-Janeiro,Alagoas,Chã Preta,20°,30°,54
-Fevereiro,Alagoas,Chã Preta,21°,30°,61
-Março,Alagoas,Chã Preta,21°,30°,93
-Abril,Alagoas,Chã Preta,20°,28°,128
-Maio,Alagoas,Chã Preta,20°,26°,148
-Junho,Alagoas,Chã Preta,19°,24°,195
-Julho,Alagoas,Chã Preta,18°,23°,186
-Agosto,Alagoas,Chã Preta,18°,23°,127
-Setembro,Alagoas,Chã Preta,18°,25°,70
-Outubro,Alagoas,Chã Preta,19°,28°,35
-Novembro,Alagoas,Chã Preta,20°,30°,25
-Dezembro,Alagoas,Chã Preta,20°,30°,32
-Janeiro,Alagoas,Coité do Nóia,20°,30°,39
-Fevereiro,Alagoas,Coité do Nóia,21°,30°,37
-Março,Alagoas,Coité do Nóia,21°,30°,66
-Abril,Alagoas,Coité do Nóia,20°,28°,89
-Maio,Alagoas,Coité do Nóia,20°,26°,111
-Junho,Alagoas,Coité do Nóia,19°,24°,128
-Julho,Alagoas,Coité do Nóia,18°,23°,108
-Agosto,Alagoas,Coité do Nóia,18°,23°,71
-Setembro,Alagoas,Coité do Nóia,18°,25°,45
-Outubro,Alagoas,Coité do Nóia,19°,28°,26
-Novembro,Alagoas,Coité do Nóia,20°,30°,19
-Dezembro,Alagoas,Coité do Nóia,20°,30°,26
-Janeiro,Alagoas,Colônia Leopoldina,21°,29°,68
-Fevereiro,Alagoas,Colônia Leopoldina,22°,30°,71
-Março,Alagoas,Colônia Leopoldina,22°,30°,117
-Abril,Alagoas,Colônia Leopoldina,21°,29°,142
-Maio,Alagoas,Colônia Leopoldina,21°,27°,164
-Junho,Alagoas,Colônia Leopoldina,21°,25°,214
-Julho,Alagoas,Colônia Leopoldina,20°,24°,204
-Agosto,Alagoas,Colônia Leopoldina,20°,25°,141
-Setembro,Alagoas,Colônia Leopoldina,20°,26°,72
-Outubro,Alagoas,Colônia Leopoldina,20°,27°,38
-Novembro,Alagoas,Colônia Leopoldina,21°,29°,31
-Dezembro,Alagoas,Colônia Leopoldina,21°,29°,34
-Janeiro,Alagoas,Coqueiro Seco,21°,30°,65
-Fevereiro,Alagoas,Coqueiro Seco,22°,30°,86
-Março,Alagoas,Coqueiro Seco,22°,30°,132
-Abril,Alagoas,Coqueiro Seco,21°,29°,213
-Maio,Alagoas,Coqueiro Seco,20°,27°,234
-Junho,Alagoas,Coqueiro Seco,20°,25°,277
-Julho,Alagoas,Coqueiro Seco,19°,24°,243
-Agosto,Alagoas,Coqueiro Seco,18°,24°,152
-Setembro,Alagoas,Coqueiro Seco,19°,26°,95
-Outubro,Alagoas,Coqueiro Seco,20°,28°,54
-Novembro,Alagoas,Coqueiro Seco,21°,30°,42
-Dezembro,Alagoas,Coqueiro Seco,21°,30°,44
-Janeiro,Alagoas,Coruripe,22°,32°,22
-Fevereiro,Alagoas,Coruripe,22°,31°,47
-Março,Alagoas,Coruripe,22°,31°,167
-Abril,Alagoas,Coruripe,22°,30°,139
-Maio,Alagoas,Coruripe,21°,29°,190
-Junho,Alagoas,Coruripe,21°,28°,224
-Julho,Alagoas,Coruripe,20°,27°,153
-Agosto,Alagoas,Coruripe,20°,28°,98
-Setembro,Alagoas,Coruripe,20°,28°,65
-Outubro,Alagoas,Coruripe,21°,29°,36
-Novembro,Alagoas,Coruripe,21°,31°,15
-Dezembro,Alagoas,Coruripe,22°,31°,24
-Janeiro,Alagoas,Craíbas,22°,32°,39
-Fevereiro,Alagoas,Craíbas,22°,32°,37
-Março,Alagoas,Craíbas,22°,32°,66
-Abril,Alagoas,Craíbas,21°,30°,89
-Maio,Alagoas,Craíbas,20°,28°,111
-Junho,Alagoas,Craíbas,19°,25°,128
-Julho,Alagoas,Craíbas,18°,25°,108
-Agosto,Alagoas,Craíbas,18°,25°,71
-Setembro,Alagoas,Craíbas,19°,28°,45
-Outubro,Alagoas,Craíbas,20°,30°,26
-Novembro,Alagoas,Craíbas,21°,32°,19
-Dezembro,Alagoas,Craíbas,22°,32°,26
-Janeiro,Alagoas,Delmiro Gouveia,23°,34°,46
-Fevereiro,Alagoas,Delmiro Gouveia,23°,34°,46
-Março,Alagoas,Delmiro Gouveia,23°,33°,84
-Abril,Alagoas,Delmiro Gouveia,22°,32°,68
-Maio,Alagoas,Delmiro Gouveia,21°,30°,69
-Junho,Alagoas,Delmiro Gouveia,20°,27°,79
-Julho,Alagoas,Delmiro Gouveia,19°,27°,75
-Agosto,Alagoas,Delmiro Gouveia,19°,28°,39
-Setembro,Alagoas,Delmiro Gouveia,20°,31°,19
-Outubro,Alagoas,Delmiro Gouveia,21°,33°,14
-Novembro,Alagoas,Delmiro Gouveia,22°,34°,19
-Dezembro,Alagoas,Delmiro Gouveia,23°,34°,42
-Janeiro,Alagoas,Dois Riachos,22°,32°,41
-Fevereiro,Alagoas,Dois Riachos,22°,32°,44
-Março,Alagoas,Dois Riachos,22°,32°,73
-Abril,Alagoas,Dois Riachos,21°,30°,72
-Maio,Alagoas,Dois Riachos,20°,28°,77
-Junho,Alagoas,Dois Riachos,19°,25°,98
-Julho,Alagoas,Dois Riachos,18°,25°,85
-Agosto,Alagoas,Dois Riachos,18°,25°,52
-Setembro,Alagoas,Dois Riachos,19°,28°,26
-Outubro,Alagoas,Dois Riachos,20°,30°,16
-Novembro,Alagoas,Dois Riachos,21°,32°,18
-Dezembro,Alagoas,Dois Riachos,22°,32°,34
-Janeiro,Alagoas,Estrela de Alagoas,22°,32°,40
-Fevereiro,Alagoas,Estrela de Alagoas,22°,32°,48
-Março,Alagoas,Estrela de Alagoas,22°,32°,71
-Abril,Alagoas,Estrela de Alagoas,21°,30°,89
-Maio,Alagoas,Estrela de Alagoas,20°,28°,95
-Junho,Alagoas,Estrela de Alagoas,19°,25°,127
-Julho,Alagoas,Estrela de Alagoas,18°,25°,111
-Agosto,Alagoas,Estrela de Alagoas,18°,25°,74
-Setembro,Alagoas,Estrela de Alagoas,19°,28°,40
-Outubro,Alagoas,Estrela de Alagoas,20°,30°,21
-Novembro,Alagoas,Estrela de Alagoas,21°,32°,18
-Dezembro,Alagoas,Estrela de Alagoas,22°,32°,30
-Janeiro,Alagoas,Feira Grande,22°,31°,39
-Fevereiro,Alagoas,Feira Grande,23°,31°,37
-Março,Alagoas,Feira Grande,23°,31°,66
-Abril,Alagoas,Feira Grande,22°,29°,89
-Maio,Alagoas,Feira Grande,21°,27°,111
-Junho,Alagoas,Feira Grande,21°,25°,128
-Julho,Alagoas,Feira Grande,20°,25°,108
-Agosto,Alagoas,Feira Grande,20°,25°,71
-Setembro,Alagoas,Feira Grande,20°,26°,45
-Outubro,Alagoas,Feira Grande,21°,29°,26
-Novembro,Alagoas,Feira Grande,22°,30°,19
-Dezembro,Alagoas,Feira Grande,22°,31°,26
-Janeiro,Alagoas,Feliz Deserto,25°,30°,52
-Fevereiro,Alagoas,Feliz Deserto,25°,30°,55
-Março,Alagoas,Feliz Deserto,25°,30°,93
-Abril,Alagoas,Feliz Deserto,25°,29°,154
-Maio,Alagoas,Feliz Deserto,24°,28°,184
-Junho,Alagoas,Feliz Deserto,24°,26°,187
-Julho,Alagoas,Feliz Deserto,23°,26°,165
-Agosto,Alagoas,Feliz Deserto,23°,26°,103
-Setembro,Alagoas,Feliz Deserto,23°,27°,68
-Outubro,Alagoas,Feliz Deserto,24°,28°,47
-Novembro,Alagoas,Feliz Deserto,24°,29°,34
-Dezembro,Alagoas,Feliz Deserto,25°,30°,31
-Janeiro,Alagoas,Flexeiras,19°,29°,63
-Fevereiro,Alagoas,Flexeiras,20°,29°,77
-Março,Alagoas,Flexeiras,20°,29°,112
-Abril,Alagoas,Flexeiras,19°,28°,165
-Maio,Alagoas,Flexeiras,19°,26°,189
-Junho,Alagoas,Flexeiras,18°,24°,232
-Julho,Alagoas,Flexeiras,18°,23°,223
-Agosto,Alagoas,Flexeiras,17°,23°,154
-Setembro,Alagoas,Flexeiras,17°,25°,85
-Outubro,Alagoas,Flexeiras,18°,27°,49
-Novembro,Alagoas,Flexeiras,19°,29°,36
-Dezembro,Alagoas,Flexeiras,19°,29°,38
-Janeiro,Alagoas,Girau do Ponciano,22°,32°,39
-Fevereiro,Alagoas,Girau do Ponciano,23°,32°,37
-Março,Alagoas,Girau do Ponciano,23°,32°,66
-Abril,Alagoas,Girau do Ponciano,21°,31°,89
-Maio,Alagoas,Girau do Ponciano,21°,28°,111
-Junho,Alagoas,Girau do Ponciano,20°,26°,128
-Julho,Alagoas,Girau do Ponciano,19°,25°,108
-Agosto,Alagoas,Girau do Ponciano,19°,26°,71
-Setembro,Alagoas,Girau do Ponciano,19°,28°,45
-Outubro,Alagoas,Girau do Ponciano,20°,30°,26
-Novembro,Alagoas,Girau do Ponciano,21°,32°,19
-Dezembro,Alagoas,Girau do Ponciano,22°,33°,26
-Janeiro,Alagoas,Ibateguara,19°,29°,68
-Fevereiro,Alagoas,Ibateguara,20°,29°,71
-Março,Alagoas,Ibateguara,20°,29°,117
-Abril,Alagoas,Ibateguara,19°,28°,142
-Maio,Alagoas,Ibateguara,19°,26°,164
-Junho,Alagoas,Ibateguara,18°,24°,214
-Julho,Alagoas,Ibateguara,18°,23°,204
-Agosto,Alagoas,Ibateguara,17°,23°,141
-Setembro,Alagoas,Ibateguara,17°,25°,72
-Outubro,Alagoas,Ibateguara,18°,27°,38
-Novembro,Alagoas,Ibateguara,19°,29°,31
-Dezembro,Alagoas,Ibateguara,19°,29°,34
-Janeiro,Alagoas,Igaci,20°,30°,39
-Fevereiro,Alagoas,Igaci,21°,30°,37
-Março,Alagoas,Igaci,21°,30°,66
-Abril,Alagoas,Igaci,20°,28°,89
-Maio,Alagoas,Igaci,20°,26°,111
-Junho,Alagoas,Igaci,19°,24°,128
-Julho,Alagoas,Igaci,18°,23°,108
-Agosto,Alagoas,Igaci,18°,23°,71
-Setembro,Alagoas,Igaci,18°,25°,45
-Outubro,Alagoas,Igaci,19°,28°,26
-Novembro,Alagoas,Igaci,20°,30°,19
-Dezembro,Alagoas,Igaci,20°,30°,26
-Janeiro,Alagoas,Igreja Nova,22°,31°,43
-Fevereiro,Alagoas,Igreja Nova,23°,31°,44
-Março,Alagoas,Igreja Nova,23°,31°,75
-Abril,Alagoas,Igreja Nova,22°,29°,125
-Maio,Alagoas,Igreja Nova,21°,27°,159
-Junho,Alagoas,Igreja Nova,21°,25°,163
-Julho,Alagoas,Igreja Nova,20°,25°,143
-Agosto,Alagoas,Igreja Nova,20°,25°,92
-Setembro,Alagoas,Igreja Nova,20°,26°,59
-Outubro,Alagoas,Igreja Nova,21°,29°,39
-Novembro,Alagoas,Igreja Nova,22°,30°,28
-Dezembro,Alagoas,Igreja Nova,22°,31°,27
-Janeiro,Alagoas,Inhapi,21°,32°,46
-Fevereiro,Alagoas,Inhapi,22°,32°,46
-Março,Alagoas,Inhapi,22°,32°,84
-Abril,Alagoas,Inhapi,21°,31°,68
-Maio,Alagoas,Inhapi,20°,29°,69
-Junho,Alagoas,Inhapi,19°,26°,79
-Julho,Alagoas,Inhapi,18°,26°,75
-Agosto,Alagoas,Inhapi,18°,26°,39
-Setembro,Alagoas,Inhapi,19°,29°,19
-Outubro,Alagoas,Inhapi,20°,32°,14
-Novembro,Alagoas,Inhapi,21°,33°,19
-Dezembro,Alagoas,Inhapi,21°,33°,42
-Janeiro,Alagoas,Jacaré dos Homens,22°,32°,39
-Fevereiro,Alagoas,Jacaré dos Homens,22°,32°,36
-Março,Alagoas,Jacaré dos Homens,22°,32°,67
-Abril,Alagoas,Jacaré dos Homens,21°,30°,70
-Maio,Alagoas,Jacaré dos Homens,20°,28°,90
-Junho,Alagoas,Jacaré dos Homens,19°,25°,104
-Julho,Alagoas,Jacaré dos Homens,18°,25°,87
-Agosto,Alagoas,Jacaré dos Homens,18°,25°,56
-Setembro,Alagoas,Jacaré dos Homens,19°,28°,30
-Outubro,Alagoas,Jacaré dos Homens,20°,30°,18
-Novembro,Alagoas,Jacaré dos Homens,21°,32°,20
-Dezembro,Alagoas,Jacaré dos Homens,22°,32°,26
-Janeiro,Alagoas,Jacuípe,21°,29°,92
-Fevereiro,Alagoas,Jacuípe,22°,30°,107
-Março,Alagoas,Jacuípe,22°,30°,167
-Abril,Alagoas,Jacuípe,21°,29°,205
-Maio,Alagoas,Jacuípe,21°,27°,246
-Junho,Alagoas,Jacuípe,21°,25°,300
-Julho,Alagoas,Jacuípe,20°,24°,293
-Agosto,Alagoas,Jacuípe,20°,25°,179
-Setembro,Alagoas,Jacuípe,20°,26°,106
-Outubro,Alagoas,Jacuípe,20°,27°,50
-Novembro,Alagoas,Jacuípe,21°,29°,49
-Dezembro,Alagoas,Jacuípe,21°,29°,49
-Janeiro,Alagoas,Japaratinga,21°,29°,76
-Fevereiro,Alagoas,Japaratinga,22°,30°,98
-Março,Alagoas,Japaratinga,22°,30°,146
-Abril,Alagoas,Japaratinga,21°,29°,207
-Maio,Alagoas,Japaratinga,21°,27°,235
-Junho,Alagoas,Japaratinga,21°,25°,281
-Julho,Alagoas,Japaratinga,20°,24°,255
-Agosto,Alagoas,Japaratinga,20°,25°,162
-Setembro,Alagoas,Japaratinga,20°,26°,97
-Outubro,Alagoas,Japaratinga,20°,27°,51
-Novembro,Alagoas,Japaratinga,21°,29°,46
-Dezembro,Alagoas,Japaratinga,21°,29°,44
-Janeiro,Alagoas,Jaramataia,22°,32°,39
-Fevereiro,Alagoas,Jaramataia,22°,32°,36
-Março,Alagoas,Jaramataia,22°,32°,67
-Abril,Alagoas,Jaramataia,21°,30°,70
-Maio,Alagoas,Jaramataia,20°,28°,90
-Junho,Alagoas,Jaramataia,19°,25°,104
-Julho,Alagoas,Jaramataia,18°,25°,87
-Agosto,Alagoas,Jaramataia,18°,25°,56
-Setembro,Alagoas,Jaramataia,19°,28°,30
-Outubro,Alagoas,Jaramataia,20°,30°,18
-Novembro,Alagoas,Jaramataia,21°,32°,20
-Dezembro,Alagoas,Jaramataia,22°,32°,26
-Janeiro,Alagoas,Joaquim Gomes,21°,29°,63
-Fevereiro,Alagoas,Joaquim Gomes,22°,30°,77
-Março,Alagoas,Joaquim Gomes,22°,30°,112
-Abril,Alagoas,Joaquim Gomes,21°,29°,165
-Maio,Alagoas,Joaquim Gomes,21°,27°,189
-Junho,Alagoas,Joaquim Gomes,21°,25°,232
-Julho,Alagoas,Joaquim Gomes,20°,24°,223
-Agosto,Alagoas,Joaquim Gomes,20°,25°,154
-Setembro,Alagoas,Joaquim Gomes,20°,26°,85
-Outubro,Alagoas,Joaquim Gomes,20°,27°,49
-Novembro,Alagoas,Joaquim Gomes,21°,29°,36
-Dezembro,Alagoas,Joaquim Gomes,21°,29°,38
-Janeiro,Alagoas,Jundiá,21°,29°,68
-Fevereiro,Alagoas,Jundiá,22°,30°,71
-Março,Alagoas,Jundiá,22°,30°,117
-Abril,Alagoas,Jundiá,21°,29°,142
-Maio,Alagoas,Jundiá,21°,27°,164
-Junho,Alagoas,Jundiá,21°,25°,214
-Julho,Alagoas,Jundiá,20°,24°,204
-Agosto,Alagoas,Jundiá,20°,25°,141
-Setembro,Alagoas,Jundiá,20°,26°,72
-Outubro,Alagoas,Jundiá,20°,27°,38
-Novembro,Alagoas,Jundiá,21°,29°,31
-Dezembro,Alagoas,Jundiá,21°,29°,34
-Janeiro,Alagoas,Junqueiro,22°,31°,50
-Fevereiro,Alagoas,Junqueiro,23°,31°,55
-Março,Alagoas,Junqueiro,23°,31°,94
-Abril,Alagoas,Junqueiro,22°,29°,142
-Maio,Alagoas,Junqueiro,21°,27°,168
-Junho,Alagoas,Junqueiro,21°,25°,204
-Julho,Alagoas,Junqueiro,20°,25°,178
-Agosto,Alagoas,Junqueiro,20°,25°,116
-Setembro,Alagoas,Junqueiro,20°,26°,76
-Outubro,Alagoas,Junqueiro,21°,29°,42
-Novembro,Alagoas,Junqueiro,22°,30°,28
-Dezembro,Alagoas,Junqueiro,22°,31°,33
-Janeiro,Alagoas,Lagoa da Canoa,22°,31°,39
-Fevereiro,Alagoas,Lagoa da Canoa,23°,31°,37
-Março,Alagoas,Lagoa da Canoa,23°,31°,66
-Abril,Alagoas,Lagoa da Canoa,22°,29°,89
-Maio,Alagoas,Lagoa da Canoa,21°,27°,111
-Junho,Alagoas,Lagoa da Canoa,21°,25°,128
-Julho,Alagoas,Lagoa da Canoa,20°,25°,108
-Agosto,Alagoas,Lagoa da Canoa,20°,25°,71
-Setembro,Alagoas,Lagoa da Canoa,20°,26°,45
-Outubro,Alagoas,Lagoa da Canoa,21°,29°,26
-Novembro,Alagoas,Lagoa da Canoa,22°,30°,19
-Dezembro,Alagoas,Lagoa da Canoa,22°,31°,26
-Janeiro,Alagoas,Limoeiro de Anadia,20°,30°,39
-Fevereiro,Alagoas,Limoeiro de Anadia,21°,30°,37
-Março,Alagoas,Limoeiro de Anadia,21°,30°,66
-Abril,Alagoas,Limoeiro de Anadia,20°,28°,89
-Maio,Alagoas,Limoeiro de Anadia,20°,26°,111
-Junho,Alagoas,Limoeiro de Anadia,19°,24°,128
-Julho,Alagoas,Limoeiro de Anadia,18°,23°,108
-Agosto,Alagoas,Limoeiro de Anadia,18°,23°,71
-Setembro,Alagoas,Limoeiro de Anadia,18°,25°,45
-Outubro,Alagoas,Limoeiro de Anadia,19°,28°,26
-Novembro,Alagoas,Limoeiro de Anadia,20°,30°,19
-Dezembro,Alagoas,Limoeiro de Anadia,20°,30°,26
-Janeiro,Alagoas,Major Isidoro,22°,32°,39
-Fevereiro,Alagoas,Major Isidoro,22°,32°,37
-Março,Alagoas,Major Isidoro,22°,32°,66
-Abril,Alagoas,Major Isidoro,21°,30°,89
-Maio,Alagoas,Major Isidoro,20°,28°,111
-Junho,Alagoas,Major Isidoro,19°,25°,128
-Julho,Alagoas,Major Isidoro,18°,25°,108
-Agosto,Alagoas,Major Isidoro,18°,25°,71
-Setembro,Alagoas,Major Isidoro,19°,28°,45
-Outubro,Alagoas,Major Isidoro,20°,30°,26
-Novembro,Alagoas,Major Isidoro,21°,32°,19
-Dezembro,Alagoas,Major Isidoro,22°,32°,26
-Janeiro,Alagoas,Maragogi,21°,29°,76
-Fevereiro,Alagoas,Maragogi,22°,30°,98
-Março,Alagoas,Maragogi,22°,30°,146
-Abril,Alagoas,Maragogi,21°,29°,207
-Maio,Alagoas,Maragogi,21°,27°,235
-Junho,Alagoas,Maragogi,21°,25°,281
-Julho,Alagoas,Maragogi,20°,24°,255
-Agosto,Alagoas,Maragogi,20°,25°,162
-Setembro,Alagoas,Maragogi,20°,26°,97
-Outubro,Alagoas,Maragogi,20°,27°,51
-Novembro,Alagoas,Maragogi,21°,29°,46
-Dezembro,Alagoas,Maragogi,21°,29°,44
-Janeiro,Alagoas,Maravilha,21°,32°,41
-Fevereiro,Alagoas,Maravilha,22°,32°,44
-Março,Alagoas,Maravilha,22°,32°,73
-Abril,Alagoas,Maravilha,21°,31°,72
-Maio,Alagoas,Maravilha,20°,29°,77
-Junho,Alagoas,Maravilha,19°,26°,98
-Julho,Alagoas,Maravilha,18°,26°,85
-Agosto,Alagoas,Maravilha,18°,26°,52
-Setembro,Alagoas,Maravilha,19°,29°,26
-Outubro,Alagoas,Maravilha,20°,32°,16
-Novembro,Alagoas,Maravilha,21°,33°,18
-Dezembro,Alagoas,Maravilha,21°,33°,34
-Janeiro,Alagoas,Marechal Deodoro,21°,30°,65
-Fevereiro,Alagoas,Marechal Deodoro,22°,30°,86
-Março,Alagoas,Marechal Deodoro,22°,30°,132
-Abril,Alagoas,Marechal Deodoro,21°,29°,213
-Maio,Alagoas,Marechal Deodoro,20°,27°,234
-Junho,Alagoas,Marechal Deodoro,20°,25°,277
-Julho,Alagoas,Marechal Deodoro,19°,24°,243
-Agosto,Alagoas,Marechal Deodoro,18°,24°,152
-Setembro,Alagoas,Marechal Deodoro,19°,26°,95
-Outubro,Alagoas,Marechal Deodoro,20°,28°,54
-Novembro,Alagoas,Marechal Deodoro,21°,30°,42
-Dezembro,Alagoas,Marechal Deodoro,21°,30°,44
-Janeiro,Alagoas,Maribondo,20°,30°,50
-Fevereiro,Alagoas,Maribondo,21°,30°,55
-Março,Alagoas,Maribondo,21°,30°,94
-Abril,Alagoas,Maribondo,20°,28°,142
-Maio,Alagoas,Maribondo,20°,26°,168
-Junho,Alagoas,Maribondo,19°,24°,204
-Julho,Alagoas,Maribondo,18°,23°,178
-Agosto,Alagoas,Maribondo,18°,23°,116
-Setembro,Alagoas,Maribondo,18°,25°,76
-Outubro,Alagoas,Maribondo,19°,28°,42
-Novembro,Alagoas,Maribondo,20°,30°,28
-Dezembro,Alagoas,Maribondo,20°,30°,33
-Janeiro,Alagoas,Mar Vermelho,20°,30°,54
-Fevereiro,Alagoas,Mar Vermelho,21°,30°,61
-Março,Alagoas,Mar Vermelho,21°,30°,93
-Abril,Alagoas,Mar Vermelho,20°,28°,128
-Maio,Alagoas,Mar Vermelho,20°,26°,148
-Junho,Alagoas,Mar Vermelho,19°,24°,195
-Julho,Alagoas,Mar Vermelho,18°,23°,186
-Agosto,Alagoas,Mar Vermelho,18°,23°,127
-Setembro,Alagoas,Mar Vermelho,18°,25°,70
-Outubro,Alagoas,Mar Vermelho,19°,28°,35
-Novembro,Alagoas,Mar Vermelho,20°,30°,25
-Dezembro,Alagoas,Mar Vermelho,20°,30°,32
-Janeiro,Alagoas,Mata Grande,18°,32°,62
-Fevereiro,Alagoas,Mata Grande,18°,32°,80
-Março,Alagoas,Mata Grande,19°,32°,111
-Abril,Alagoas,Mata Grande,18°,31°,99
-Maio,Alagoas,Mata Grande,18°,29°,179
-Junho,Alagoas,Mata Grande,17°,26°,176
-Julho,Alagoas,Mata Grande,16°,26°,207
-Agosto,Alagoas,Mata Grande,16°,26°,102
-Setembro,Alagoas,Mata Grande,17°,29°,44
-Outubro,Alagoas,Mata Grande,17°,32°,17
-Novembro,Alagoas,Mata Grande,18°,33°,29
-Dezembro,Alagoas,Mata Grande,18°,33°,64
-Janeiro,Alagoas,Matriz de Camaragibe,21°,29°,63
-Fevereiro,Alagoas,Matriz de Camaragibe,22°,30°,77
-Março,Alagoas,Matriz de Camaragibe,22°,30°,112
-Abril,Alagoas,Matriz de Camaragibe,21°,29°,165
-Maio,Alagoas,Matriz de Camaragibe,21°,27°,189
-Junho,Alagoas,Matriz de Camaragibe,21°,25°,232
-Julho,Alagoas,Matriz de Camaragibe,20°,24°,223
-Agosto,Alagoas,Matriz de Camaragibe,20°,25°,154
-Setembro,Alagoas,Matriz de Camaragibe,20°,26°,85
-Outubro,Alagoas,Matriz de Camaragibe,20°,27°,49
-Novembro,Alagoas,Matriz de Camaragibe,21°,29°,36
-Dezembro,Alagoas,Matriz de Camaragibe,21°,29°,38
-Janeiro,Alagoas,Messias,21°,30°,63
-Fevereiro,Alagoas,Messias,22°,30°,77
-Março,Alagoas,Messias,22°,30°,112
-Abril,Alagoas,Messias,21°,29°,165
-Maio,Alagoas,Messias,20°,27°,189
-Junho,Alagoas,Messias,20°,25°,232
-Julho,Alagoas,Messias,19°,24°,223
-Agosto,Alagoas,Messias,18°,24°,154
-Setembro,Alagoas,Messias,19°,26°,85
-Outubro,Alagoas,Messias,20°,28°,49
-Novembro,Alagoas,Messias,21°,30°,36
-Dezembro,Alagoas,Messias,21°,30°,38
-Janeiro,Alagoas,Minador do Negrão,22°,32°,40
-Fevereiro,Alagoas,Minador do Negrão,22°,32°,48
-Março,Alagoas,Minador do Negrão,22°,32°,71
-Abril,Alagoas,Minador do Negrão,21°,30°,89
-Maio,Alagoas,Minador do Negrão,20°,28°,95
-Junho,Alagoas,Minador do Negrão,19°,25°,127
-Julho,Alagoas,Minador do Negrão,18°,25°,111
-Agosto,Alagoas,Minador do Negrão,18°,25°,74
-Setembro,Alagoas,Minador do Negrão,19°,28°,40
-Outubro,Alagoas,Minador do Negrão,20°,30°,21
-Novembro,Alagoas,Minador do Negrão,21°,32°,18
-Dezembro,Alagoas,Minador do Negrão,22°,32°,30
-Janeiro,Alagoas,Monteirópolis,22°,32°,39
-Fevereiro,Alagoas,Monteirópolis,22°,32°,36
-Março,Alagoas,Monteirópolis,22°,32°,67
-Abril,Alagoas,Monteirópolis,21°,30°,70
-Maio,Alagoas,Monteirópolis,20°,28°,90
-Junho,Alagoas,Monteirópolis,19°,25°,104
-Julho,Alagoas,Monteirópolis,18°,25°,87
-Agosto,Alagoas,Monteirópolis,18°,25°,56
-Setembro,Alagoas,Monteirópolis,19°,28°,30
-Outubro,Alagoas,Monteirópolis,20°,30°,18
-Novembro,Alagoas,Monteirópolis,21°,32°,20
-Dezembro,Alagoas,Monteirópolis,22°,32°,26
-Janeiro,Alagoas,Murici,21°,30°,63
-Fevereiro,Alagoas,Murici,22°,30°,77
-Março,Alagoas,Murici,22°,30°,112
-Abril,Alagoas,Murici,21°,29°,165
-Maio,Alagoas,Murici,20°,27°,189
-Junho,Alagoas,Murici,20°,25°,232
-Julho,Alagoas,Murici,19°,24°,223
-Agosto,Alagoas,Murici,18°,24°,154
-Setembro,Alagoas,Murici,19°,26°,85
-Outubro,Alagoas,Murici,20°,28°,49
-Novembro,Alagoas,Murici,21°,30°,36
-Dezembro,Alagoas,Murici,21°,30°,38
-Janeiro,Alagoas,Novo Lino,21°,29°,68
-Fevereiro,Alagoas,Novo Lino,22°,30°,71
-Março,Alagoas,Novo Lino,22°,30°,117
-Abril,Alagoas,Novo Lino,21°,29°,142
-Maio,Alagoas,Novo Lino,21°,27°,164
-Junho,Alagoas,Novo Lino,21°,25°,214
-Julho,Alagoas,Novo Lino,20°,24°,204
-Agosto,Alagoas,Novo Lino,20°,25°,141
-Setembro,Alagoas,Novo Lino,20°,26°,72
-Outubro,Alagoas,Novo Lino,20°,27°,38
-Novembro,Alagoas,Novo Lino,21°,29°,31
-Dezembro,Alagoas,Novo Lino,21°,29°,34
-Janeiro,Alagoas,Olivença,22°,32°,39
-Fevereiro,Alagoas,Olivença,22°,32°,36
-Março,Alagoas,Olivença,22°,32°,67
-Abril,Alagoas,Olivença,21°,30°,70
-Maio,Alagoas,Olivença,20°,28°,90
-Junho,Alagoas,Olivença,19°,25°,104
-Julho,Alagoas,Olivença,18°,25°,87
-Agosto,Alagoas,Olivença,18°,25°,56
-Setembro,Alagoas,Olivença,19°,28°,30
-Outubro,Alagoas,Olivença,20°,30°,18
-Novembro,Alagoas,Olivença,21°,32°,20
-Dezembro,Alagoas,Olivença,22°,32°,26
-Janeiro,Alagoas,Ouro Branco,21°,32°,41
-Fevereiro,Alagoas,Ouro Branco,22°,32°,44
-Março,Alagoas,Ouro Branco,22°,32°,73
-Abril,Alagoas,Ouro Branco,21°,31°,72
-Maio,Alagoas,Ouro Branco,20°,29°,77
-Junho,Alagoas,Ouro Branco,19°,26°,98
-Julho,Alagoas,Ouro Branco,18°,26°,85
-Agosto,Alagoas,Ouro Branco,18°,26°,52
-Setembro,Alagoas,Ouro Branco,19°,29°,26
-Outubro,Alagoas,Ouro Branco,20°,32°,16
-Novembro,Alagoas,Ouro Branco,21°,33°,18
-Dezembro,Alagoas,Ouro Branco,21°,33°,34
-Janeiro,Alagoas,Palestina,23°,33°,39
-Fevereiro,Alagoas,Palestina,23°,33°,36
-Março,Alagoas,Palestina,23°,33°,67
-Abril,Alagoas,Palestina,21°,32°,70
-Maio,Alagoas,Palestina,21°,29°,90
-Junho,Alagoas,Palestina,20°,27°,104
-Julho,Alagoas,Palestina,19°,26°,87
-Agosto,Alagoas,Palestina,19°,27°,56
-Setembro,Alagoas,Palestina,19°,30°,30
-Outubro,Alagoas,Palestina,21°,32°,18
-Novembro,Alagoas,Palestina,22°,34°,20
-Dezembro,Alagoas,Palestina,23°,34°,26
-Janeiro,Alagoas,Palmeira dos Índios,21°,30°,15
-Fevereiro,Alagoas,Palmeira dos Índios,21°,30°,26
-Março,Alagoas,Palmeira dos Índios,21°,30°,87
-Abril,Alagoas,Palmeira dos Índios,21°,28°,102
-Maio,Alagoas,Palmeira dos Índios,20°,26°,164
-Junho,Alagoas,Palmeira dos Índios,19°,24°,198
-Julho,Alagoas,Palmeira dos Índios,18°,23°,140
-Agosto,Alagoas,Palmeira dos Índios,18°,23°,52
-Setembro,Alagoas,Palmeira dos Índios,18°,25°,48
-Outubro,Alagoas,Palmeira dos Índios,20°,28°,10
-Novembro,Alagoas,Palmeira dos Índios,20°,30°,11
-Dezembro,Alagoas,Palmeira dos Índios,21°,30°,74
-Janeiro,Alagoas,Pão de Açúcar,23°,33°,39
-Fevereiro,Alagoas,Pão de Açúcar,23°,33°,36
-Março,Alagoas,Pão de Açúcar,23°,33°,67
-Abril,Alagoas,Pão de Açúcar,21°,32°,70
-Maio,Alagoas,Pão de Açúcar,21°,29°,90
-Junho,Alagoas,Pão de Açúcar,20°,27°,104
-Julho,Alagoas,Pão de Açúcar,19°,26°,87
-Agosto,Alagoas,Pão de Açúcar,19°,27°,56
-Setembro,Alagoas,Pão de Açúcar,19°,30°,30
-Outubro,Alagoas,Pão de Açúcar,21°,32°,18
-Novembro,Alagoas,Pão de Açúcar,22°,34°,20
-Dezembro,Alagoas,Pão de Açúcar,23°,34°,26
-Janeiro,Alagoas,Pariconha,23°,34°,56
-Fevereiro,Alagoas,Pariconha,23°,34°,46
-Março,Alagoas,Pariconha,23°,33°,81
-Abril,Alagoas,Pariconha,22°,32°,63
-Maio,Alagoas,Pariconha,21°,30°,47
-Junho,Alagoas,Pariconha,20°,27°,50
-Julho,Alagoas,Pariconha,19°,27°,48
-Agosto,Alagoas,Pariconha,19°,28°,25
-Setembro,Alagoas,Pariconha,20°,31°,13
-Outubro,Alagoas,Pariconha,21°,33°,11
-Novembro,Alagoas,Pariconha,22°,34°,20
-Dezembro,Alagoas,Pariconha,23°,34°,44
-Janeiro,Alagoas,Paripueira,24°,29°,63
-Fevereiro,Alagoas,Paripueira,25°,30°,77
-Março,Alagoas,Paripueira,25°,30°,112
-Abril,Alagoas,Paripueira,24°,29°,165
-Maio,Alagoas,Paripueira,24°,28°,189
-Junho,Alagoas,Paripueira,23°,26°,232
-Julho,Alagoas,Paripueira,23°,26°,223
-Agosto,Alagoas,Paripueira,22°,26°,154
-Setembro,Alagoas,Paripueira,23°,26°,85
-Outubro,Alagoas,Paripueira,23°,28°,49
-Novembro,Alagoas,Paripueira,24°,29°,36
-Dezembro,Alagoas,Paripueira,24°,29°,38
-Janeiro,Alagoas,Passo de Camaragibe,21°,29°,76
-Fevereiro,Alagoas,Passo de Camaragibe,22°,30°,98
-Março,Alagoas,Passo de Camaragibe,22°,30°,146
-Abril,Alagoas,Passo de Camaragibe,21°,29°,207
-Maio,Alagoas,Passo de Camaragibe,21°,27°,235
-Junho,Alagoas,Passo de Camaragibe,21°,25°,281
-Julho,Alagoas,Passo de Camaragibe,20°,24°,255
-Agosto,Alagoas,Passo de Camaragibe,20°,25°,162
-Setembro,Alagoas,Passo de Camaragibe,20°,26°,97
-Outubro,Alagoas,Passo de Camaragibe,20°,27°,51
-Novembro,Alagoas,Passo de Camaragibe,21°,29°,46
-Dezembro,Alagoas,Passo de Camaragibe,21°,29°,44
-Janeiro,Alagoas,Paulo Jacinto,20°,30°,54
-Fevereiro,Alagoas,Paulo Jacinto,21°,30°,61
-Março,Alagoas,Paulo Jacinto,21°,30°,93
-Abril,Alagoas,Paulo Jacinto,20°,28°,128
-Maio,Alagoas,Paulo Jacinto,20°,26°,148
-Junho,Alagoas,Paulo Jacinto,19°,24°,195
-Julho,Alagoas,Paulo Jacinto,18°,23°,186
-Agosto,Alagoas,Paulo Jacinto,18°,23°,127
-Setembro,Alagoas,Paulo Jacinto,18°,25°,70
-Outubro,Alagoas,Paulo Jacinto,19°,28°,35
-Novembro,Alagoas,Paulo Jacinto,20°,30°,25
-Dezembro,Alagoas,Paulo Jacinto,20°,30°,32
-Janeiro,Alagoas,Penedo,25°,30°,43
-Fevereiro,Alagoas,Penedo,25°,30°,44
-Março,Alagoas,Penedo,25°,30°,75
-Abril,Alagoas,Penedo,25°,29°,125
-Maio,Alagoas,Penedo,24°,28°,159
-Junho,Alagoas,Penedo,24°,26°,163
-Julho,Alagoas,Penedo,23°,26°,143
-Agosto,Alagoas,Penedo,23°,26°,92
-Setembro,Alagoas,Penedo,23°,27°,59
-Outubro,Alagoas,Penedo,24°,28°,39
-Novembro,Alagoas,Penedo,24°,29°,28
-Dezembro,Alagoas,Penedo,25°,30°,27
-Janeiro,Alagoas,Piaçabuçu,25°,30°,52
-Fevereiro,Alagoas,Piaçabuçu,25°,30°,55
-Março,Alagoas,Piaçabuçu,25°,30°,93
-Abril,Alagoas,Piaçabuçu,25°,29°,154
-Maio,Alagoas,Piaçabuçu,24°,28°,184
-Junho,Alagoas,Piaçabuçu,24°,26°,187
-Julho,Alagoas,Piaçabuçu,23°,26°,165
-Agosto,Alagoas,Piaçabuçu,23°,26°,103
-Setembro,Alagoas,Piaçabuçu,23°,27°,68
-Outubro,Alagoas,Piaçabuçu,24°,28°,47
-Novembro,Alagoas,Piaçabuçu,24°,29°,34
-Dezembro,Alagoas,Piaçabuçu,25°,30°,31
-Janeiro,Alagoas,Piaçaçuba,25°,30°,52
-Fevereiro,Alagoas,Piaçaçuba,25°,30°,55
-Março,Alagoas,Piaçaçuba,25°,30°,93
-Abril,Alagoas,Piaçaçuba,25°,29°,154
-Maio,Alagoas,Piaçaçuba,24°,28°,184
-Junho,Alagoas,Piaçaçuba,24°,26°,187
-Julho,Alagoas,Piaçaçuba,23°,26°,165
-Agosto,Alagoas,Piaçaçuba,23°,26°,103
-Setembro,Alagoas,Piaçaçuba,23°,27°,68
-Outubro,Alagoas,Piaçaçuba,24°,28°,47
-Novembro,Alagoas,Piaçaçuba,24°,29°,34
-Dezembro,Alagoas,Piaçaçuba,25°,30°,31
-Janeiro,Alagoas,Pilar,21°,30°,65
-Fevereiro,Alagoas,Pilar,22°,30°,86
-Março,Alagoas,Pilar,22°,30°,132
-Abril,Alagoas,Pilar,21°,29°,213
-Maio,Alagoas,Pilar,20°,27°,234
-Junho,Alagoas,Pilar,20°,25°,277
-Julho,Alagoas,Pilar,19°,24°,243
-Agosto,Alagoas,Pilar,18°,24°,152
-Setembro,Alagoas,Pilar,19°,26°,95
-Outubro,Alagoas,Pilar,20°,28°,54
-Novembro,Alagoas,Pilar,21°,30°,42
-Dezembro,Alagoas,Pilar,21°,30°,44
-Janeiro,Alagoas,Pindoba,20°,30°,54
-Fevereiro,Alagoas,Pindoba,21°,30°,61
-Março,Alagoas,Pindoba,21°,30°,93
-Abril,Alagoas,Pindoba,20°,28°,128
-Maio,Alagoas,Pindoba,20°,26°,148
-Junho,Alagoas,Pindoba,19°,24°,195
-Julho,Alagoas,Pindoba,18°,23°,186
-Agosto,Alagoas,Pindoba,18°,23°,127
-Setembro,Alagoas,Pindoba,18°,25°,70
-Outubro,Alagoas,Pindoba,19°,28°,35
-Novembro,Alagoas,Pindoba,20°,30°,25
-Dezembro,Alagoas,Pindoba,20°,30°,32
-Janeiro,Alagoas,Piranhas,23°,34°,43
-Fevereiro,Alagoas,Piranhas,23°,34°,38
-Março,Alagoas,Piranhas,23°,33°,69
-Abril,Alagoas,Piranhas,22°,32°,65
-Maio,Alagoas,Piranhas,21°,30°,67
-Junho,Alagoas,Piranhas,20°,27°,83
-Julho,Alagoas,Piranhas,19°,27°,74
-Agosto,Alagoas,Piranhas,19°,28°,46
-Setembro,Alagoas,Piranhas,20°,31°,22
-Outubro,Alagoas,Piranhas,21°,33°,15
-Novembro,Alagoas,Piranhas,22°,34°,19
-Dezembro,Alagoas,Piranhas,23°,34°,36
-Janeiro,Alagoas,Poço das Trincheiras,23°,33°,41
-Fevereiro,Alagoas,Poço das Trincheiras,23°,33°,44
-Março,Alagoas,Poço das Trincheiras,23°,33°,73
-Abril,Alagoas,Poço das Trincheiras,21°,32°,72
-Maio,Alagoas,Poço das Trincheiras,21°,29°,77
-Junho,Alagoas,Poço das Trincheiras,20°,27°,98
-Julho,Alagoas,Poço das Trincheiras,19°,26°,85
-Agosto,Alagoas,Poço das Trincheiras,19°,27°,52
-Setembro,Alagoas,Poço das Trincheiras,19°,30°,26
-Outubro,Alagoas,Poço das Trincheiras,21°,32°,16
-Novembro,Alagoas,Poço das Trincheiras,22°,34°,18
-Dezembro,Alagoas,Poço das Trincheiras,23°,34°,34
-Janeiro,Alagoas,Porto Calvo,21°,29°,76
-Fevereiro,Alagoas,Porto Calvo,22°,30°,98
-Março,Alagoas,Porto Calvo,22°,30°,146
-Abril,Alagoas,Porto Calvo,21°,29°,207
-Maio,Alagoas,Porto Calvo,21°,27°,235
-Junho,Alagoas,Porto Calvo,21°,25°,281
-Julho,Alagoas,Porto Calvo,20°,24°,255
-Agosto,Alagoas,Porto Calvo,20°,25°,162
-Setembro,Alagoas,Porto Calvo,20°,26°,97
-Outubro,Alagoas,Porto Calvo,20°,27°,51
-Novembro,Alagoas,Porto Calvo,21°,29°,46
-Dezembro,Alagoas,Porto Calvo,21°,29°,44
-Janeiro,Alagoas,Porto de Pedras,21°,29°,76
-Fevereiro,Alagoas,Porto de Pedras,22°,30°,98
-Março,Alagoas,Porto de Pedras,22°,30°,146
-Abril,Alagoas,Porto de Pedras,21°,29°,207
-Maio,Alagoas,Porto de Pedras,21°,27°,235
-Junho,Alagoas,Porto de Pedras,21°,25°,281
-Julho,Alagoas,Porto de Pedras,20°,24°,255
-Agosto,Alagoas,Porto de Pedras,20°,25°,162
-Setembro,Alagoas,Porto de Pedras,20°,26°,97
-Outubro,Alagoas,Porto de Pedras,20°,27°,51
-Novembro,Alagoas,Porto de Pedras,21°,29°,46
-Dezembro,Alagoas,Porto de Pedras,21°,29°,44
+Cidade,Estado,Mês,Minima (°C),Máxima (°C),Precipitação (mm)
+Rio Branco,Acre,Janeiro,21°,31°,289
+Rio Branco,Acre,Fevereiro,21°,31°,285
+Rio Branco,Acre,Março,21°,31°,230
+Rio Branco,Acre,Abril,21°,31°,190
+Rio Branco,Acre,Maio,19°,31°,93
+Rio Branco,Acre,Junho,18°,30°,32
+Rio Branco,Acre,Julho,17°,31°,44
+Rio Branco,Acre,Agosto,17°,33°,38
+Rio Branco,Acre,Setembro,19°,33°,90
+Rio Branco,Acre,Outubro,21°,33°,171
+Rio Branco,Acre,Novembro,21°,32°,221
+Rio Branco,Acre,Dezembro,21°,31°,265
+Acrelândia,Acre,Janeiro,23°,29°,298
+Acrelândia,Acre,Fevereiro,23°,28°,286
+Acrelândia,Acre,Março,23°,28°,290
+Acrelândia,Acre,Abril,22°,29°,210
+Acrelândia,Acre,Maio,21°,29°,107
+Acrelândia,Acre,Junho,20°,31°,38
+Acrelândia,Acre,Julho,20°,32°,24
+Acrelândia,Acre,Agosto,22°,35°,42
+Acrelândia,Acre,Setembro,24°,35°,97
+Acrelândia,Acre,Outubro,23°,33°,169
+Acrelândia,Acre,Novembro,23°,31°,233
+Acrelândia,Acre,Dezembro,23°,29°,252
+Assis Brasil,Acre,Janeiro,22°,29°,243
+Assis Brasil,Acre,Fevereiro,22°,28°,247
+Assis Brasil,Acre,Março,22°,28°,214
+Assis Brasil,Acre,Abril,21°,29°,167
+Assis Brasil,Acre,Maio,20°,29°,80
+Assis Brasil,Acre,Junho,19°,30°,22
+Assis Brasil,Acre,Julho,19°,31°,22
+Assis Brasil,Acre,Agosto,21°,34°,35
+Assis Brasil,Acre,Setembro,23°,34°,84
+Assis Brasil,Acre,Outubro,23°,33°,145
+Assis Brasil,Acre,Novembro,23°,31°,203
+Assis Brasil,Acre,Dezembro,22°,29°,235
+Brasiléia,Acre,Janeiro,23°,29°,251
+Brasiléia,Acre,Fevereiro,22°,28°,236
+Brasiléia,Acre,Março,22°,28°,215
+Brasiléia,Acre,Abril,22°,29°,152
+Brasiléia,Acre,Maio,20°,29°,70
+Brasiléia,Acre,Junho,19°,30°,28
+Brasiléia,Acre,Julho,19°,31°,21
+Brasiléia,Acre,Agosto,21°,34°,41
+Brasiléia,Acre,Setembro,23°,35°,89
+Brasiléia,Acre,Outubro,23°,33°,135
+Brasiléia,Acre,Novembro,23°,31°,206
+Brasiléia,Acre,Dezembro,23°,29°,222
+Bujari,Acre,Janeiro,23°,29°,280
+Bujari,Acre,Fevereiro,23°,28°,263
+Bujari,Acre,Março,23°,28°,259
+Bujari,Acre,Abril,22°,29°,181
+Bujari,Acre,Maio,21°,29°,94
+Bujari,Acre,Junho,20°,30°,35
+Bujari,Acre,Julho,20°,32°,26
+Bujari,Acre,Agosto,22°,35°,45
+Bujari,Acre,Setembro,24°,35°,82
+Bujari,Acre,Outubro,23°,33°,151
+Bujari,Acre,Novembro,23°,31°,201
+Bujari,Acre,Dezembro,23°,29°,247
+Capixaba,Acre,Janeiro,23°,29°,272
+Capixaba,Acre,Fevereiro,23°,28°,254
+Capixaba,Acre,Março,23°,28°,267
+Capixaba,Acre,Abril,22°,29°,174
+Capixaba,Acre,Maio,20°,29°,85
+Capixaba,Acre,Junho,19°,30°,38
+Capixaba,Acre,Julho,20°,31°,26
+Capixaba,Acre,Agosto,22°,35°,48
+Capixaba,Acre,Setembro,24°,35°,95
+Capixaba,Acre,Outubro,23°,33°,157
+Capixaba,Acre,Novembro,23°,31°,200
+Capixaba,Acre,Dezembro,23°,29°,248
+Cruzeiro do Sul,Acre,Janeiro,20°,31°,258
+Cruzeiro do Sul,Acre,Fevereiro,20°,31°,277
+Cruzeiro do Sul,Acre,Março,20°,31°,299
+Cruzeiro do Sul,Acre,Abril,20°,31°,244
+Cruzeiro do Sul,Acre,Maio,19°,31°,163
+Cruzeiro do Sul,Acre,Junho,18°,30°,87
+Cruzeiro do Sul,Acre,Julho,17°,31°,66
+Cruzeiro do Sul,Acre,Agosto,18°,32°,86
+Cruzeiro do Sul,Acre,Setembro,19°,32°,135
+Cruzeiro do Sul,Acre,Outubro,19°,32°,215
+Cruzeiro do Sul,Acre,Novembro,20°,31°,231
+Cruzeiro do Sul,Acre,Dezembro,20°,31°,223
+Epitaciolândia,Acre,Janeiro,23°,29°,251
+Epitaciolândia,Acre,Fevereiro,22°,28°,236
+Epitaciolândia,Acre,Março,22°,28°,215
+Epitaciolândia,Acre,Abril,22°,29°,152
+Epitaciolândia,Acre,Maio,20°,29°,70
+Epitaciolândia,Acre,Junho,19°,30°,28
+Epitaciolândia,Acre,Julho,19°,31°,21
+Epitaciolândia,Acre,Agosto,21°,34°,41
+Epitaciolândia,Acre,Setembro,23°,35°,89
+Epitaciolândia,Acre,Outubro,23°,33°,135
+Epitaciolândia,Acre,Novembro,23°,31°,206
+Epitaciolândia,Acre,Dezembro,23°,29°,222
+Feijó,Acre,Janeiro,23°,29°,273
+Feijó,Acre,Fevereiro,23°,28°,243
+Feijó,Acre,Março,23°,28°,296
+Feijó,Acre,Abril,22°,28°,230
+Feijó,Acre,Maio,21°,29°,154
+Feijó,Acre,Junho,20°,30°,59
+Feijó,Acre,Julho,20°,31°,51
+Feijó,Acre,Agosto,22°,33°,53
+Feijó,Acre,Setembro,23°,33°,94
+Feijó,Acre,Outubro,23°,32°,178
+Feijó,Acre,Novembro,23°,30°,231
+Feijó,Acre,Dezembro,23°,29°,271
+Jordão,Acre,Janeiro,22°,29°,270
+Jordão,Acre,Fevereiro,22°,28°,223
+Jordão,Acre,Março,22°,28°,276
+Jordão,Acre,Abril,21°,28°,209
+Jordão,Acre,Maio,20°,29°,111
+Jordão,Acre,Junho,19°,30°,62
+Jordão,Acre,Julho,19°,31°,41
+Jordão,Acre,Agosto,20°,34°,54
+Jordão,Acre,Setembro,22°,34°,96
+Jordão,Acre,Outubro,22°,32°,171
+Jordão,Acre,Novembro,22°,30°,214
+Jordão,Acre,Dezembro,22°,29°,249
+Mâncio Lima,Acre,Janeiro,23°,29°,246
+Mâncio Lima,Acre,Fevereiro,23°,29°,233
+Mâncio Lima,Acre,Março,23°,28°,276
+Mâncio Lima,Acre,Abril,22°,28°,232
+Mâncio Lima,Acre,Maio,21°,29°,151
+Mâncio Lima,Acre,Junho,20°,29°,92
+Mâncio Lima,Acre,Julho,20°,30°,64
+Mâncio Lima,Acre,Agosto,22°,33°,69
+Mâncio Lima,Acre,Setembro,23°,33°,119
+Mâncio Lima,Acre,Outubro,23°,32°,183
+Mâncio Lima,Acre,Novembro,23°,31°,219
+Mâncio Lima,Acre,Dezembro,23°,29°,242
+Manoel Urbano,Acre,Janeiro,23°,29°,319
+Manoel Urbano,Acre,Fevereiro,23°,28°,259
+Manoel Urbano,Acre,Março,23°,28°,262
+Manoel Urbano,Acre,Abril,22°,28°,213
+Manoel Urbano,Acre,Maio,21°,29°,121
+Manoel Urbano,Acre,Junho,20°,30°,52
+Manoel Urbano,Acre,Julho,20°,31°,35
+Manoel Urbano,Acre,Agosto,22°,34°,49
+Manoel Urbano,Acre,Setembro,23°,34°,97
+Manoel Urbano,Acre,Outubro,23°,32°,169
+Manoel Urbano,Acre,Novembro,23°,31°,241
+Manoel Urbano,Acre,Dezembro,23°,29°,291
+Marechal Thaumaturgo,Acre,Janeiro,23°,29°,225
+Marechal Thaumaturgo,Acre,Fevereiro,22°,29°,202
+Marechal Thaumaturgo,Acre,Março,22°,28°,241
+Marechal Thaumaturgo,Acre,Abril,22°,29°,187
+Marechal Thaumaturgo,Acre,Maio,21°,30°,112
+Marechal Thaumaturgo,Acre,Junho,19°,30°,63
+Marechal Thaumaturgo,Acre,Julho,19°,31°,45
+Marechal Thaumaturgo,Acre,Agosto,21°,34°,56
+Marechal Thaumaturgo,Acre,Setembro,22°,34°,93
+Marechal Thaumaturgo,Acre,Outubro,23°,33°,148
+Marechal Thaumaturgo,Acre,Novembro,23°,31°,196
+Marechal Thaumaturgo,Acre,Dezembro,22°,29°,221
+Plácido de Castro,Acre,Janeiro,23°,29°,299
+Plácido de Castro,Acre,Fevereiro,23°,28°,280
+Plácido de Castro,Acre,Março,23°,28°,300
+Plácido de Castro,Acre,Abril,22°,29°,201
+Plácido de Castro,Acre,Maio,21°,29°,105
+Plácido de Castro,Acre,Junho,20°,30°,47
+Plácido de Castro,Acre,Julho,20°,32°,26
+Plácido de Castro,Acre,Agosto,22°,35°,52
+Plácido de Castro,Acre,Setembro,24°,35°,102
+Plácido de Castro,Acre,Outubro,23°,33°,171
+Plácido de Castro,Acre,Novembro,23°,31°,201
+Plácido de Castro,Acre,Dezembro,23°,29°,274
+Porto Acre,Acre,Janeiro,23°,29°,280
+Porto Acre,Acre,Fevereiro,23°,28°,263
+Porto Acre,Acre,Março,23°,28°,259
+Porto Acre,Acre,Abril,22°,28°,181
+Porto Acre,Acre,Maio,21°,29°,94
+Porto Acre,Acre,Junho,20°,31°,35
+Porto Acre,Acre,Julho,20°,32°,26
+Porto Acre,Acre,Agosto,22°,34°,45
+Porto Acre,Acre,Setembro,24°,34°,82
+Porto Acre,Acre,Outubro,23°,32°,151
+Porto Acre,Acre,Novembro,23°,30°,201
+Porto Acre,Acre,Dezembro,23°,29°,247
+Porto Walter,Acre,Janeiro,23°,29°,253
+Porto Walter,Acre,Fevereiro,22°,28°,232
+Porto Walter,Acre,Março,22°,28°,288
+Porto Walter,Acre,Abril,22°,28°,237
+Porto Walter,Acre,Maio,21°,29°,138
+Porto Walter,Acre,Junho,20°,30°,88
+Porto Walter,Acre,Julho,19°,31°,60
+Porto Walter,Acre,Agosto,21°,33°,67
+Porto Walter,Acre,Setembro,22°,34°,111
+Porto Walter,Acre,Outubro,23°,32°,179
+Porto Walter,Acre,Novembro,23°,30°,217
+Porto Walter,Acre,Dezembro,23°,29°,252
+Rodrigues Alves,Acre,Janeiro,23°,29°,246
+Rodrigues Alves,Acre,Fevereiro,23°,28°,233
+Rodrigues Alves,Acre,Março,23°,28°,276
+Rodrigues Alves,Acre,Abril,22°,28°,232
+Rodrigues Alves,Acre,Maio,21°,29°,151
+Rodrigues Alves,Acre,Junho,20°,29°,92
+Rodrigues Alves,Acre,Julho,20°,30°,64
+Rodrigues Alves,Acre,Agosto,22°,33°,69
+Rodrigues Alves,Acre,Setembro,23°,33°,119
+Rodrigues Alves,Acre,Outubro,23°,31°,183
+Rodrigues Alves,Acre,Novembro,23°,30°,219
+Rodrigues Alves,Acre,Dezembro,23°,29°,242
+Santa Rosa do Purus,Acre,Janeiro,23°,29°,288
+Santa Rosa do Purus,Acre,Fevereiro,22°,28°,262
+Santa Rosa do Purus,Acre,Março,22°,28°,274
+Santa Rosa do Purus,Acre,Abril,22°,29°,197
+Santa Rosa do Purus,Acre,Maio,20°,29°,120
+Santa Rosa do Purus,Acre,Junho,19°,30°,45
+Santa Rosa do Purus,Acre,Julho,19°,31°,36
+Santa Rosa do Purus,Acre,Agosto,21°,34°,48
+Santa Rosa do Purus,Acre,Setembro,23°,34°,93
+Santa Rosa do Purus,Acre,Outubro,23°,33°,171
+Santa Rosa do Purus,Acre,Novembro,23°,31°,239
+Santa Rosa do Purus,Acre,Dezembro,22°,29°,271
+Senador Guiomard,Acre,Janeiro,23°,29°,273
+Senador Guiomard,Acre,Fevereiro,23°,28°,254
+Senador Guiomard,Acre,Março,23°,28°,261
+Senador Guiomard,Acre,Abril,22°,29°,176
+Senador Guiomard,Acre,Maio,21°,29°,89
+Senador Guiomard,Acre,Junho,20°,30°,38
+Senador Guiomard,Acre,Julho,20°,32°,26
+Senador Guiomard,Acre,Agosto,22°,35°,48
+Senador Guiomard,Acre,Setembro,24°,34°,88
+Senador Guiomard,Acre,Outubro,23°,33°,154
+Senador Guiomard,Acre,Novembro,23°,31°,194
+Senador Guiomard,Acre,Dezembro,23°,29°,246
+Sena Madureira,Acre,Janeiro,23°,29°,282
+Sena Madureira,Acre,Fevereiro,23°,28°,263
+Sena Madureira,Acre,Março,23°,28°,249
+Sena Madureira,Acre,Abril,22°,28°,180
+Sena Madureira,Acre,Maio,21°,29°,109
+Sena Madureira,Acre,Junho,20°,31°,41
+Sena Madureira,Acre,Julho,20°,32°,31
+Sena Madureira,Acre,Agosto,22°,34°,44
+Sena Madureira,Acre,Setembro,23°,34°,91
+Sena Madureira,Acre,Outubro,23°,32°,160
+Sena Madureira,Acre,Novembro,23°,31°,231
+Sena Madureira,Acre,Dezembro,23°,29°,257
+Tarauacá,Acre,Janeiro,22°,31°,287
+Tarauacá,Acre,Fevereiro,22°,31°,264
+Tarauacá,Acre,Março,22°,31°,309
+Tarauacá,Acre,Abril,22°,31°,198
+Tarauacá,Acre,Maio,21°,31°,121
+Tarauacá,Acre,Junho,19°,31°,53
+Tarauacá,Acre,Julho,19°,31°,65
+Tarauacá,Acre,Agosto,19°,32°,80
+Tarauacá,Acre,Setembro,20°,32°,104
+Tarauacá,Acre,Outubro,21°,32°,197
+Tarauacá,Acre,Novembro,22°,32°,242
+Tarauacá,Acre,Dezembro,22°,31°,272
+Xapuri,Acre,Janeiro,23°,29°,254
+Xapuri,Acre,Fevereiro,22°,28°,240
+Xapuri,Acre,Março,22°,28°,223
+Xapuri,Acre,Abril,22°,29°,156
+Xapuri,Acre,Maio,20°,29°,72
+Xapuri,Acre,Junho,19°,30°,26
+Xapuri,Acre,Julho,19°,31°,22
+Xapuri,Acre,Agosto,22°,35°,40
+Xapuri,Acre,Setembro,23°,35°,88
+Xapuri,Acre,Outubro,23°,33°,138
+Xapuri,Acre,Novembro,23°,31°,204
+Xapuri,Acre,Dezembro,23°,29°,228
+Maceió,Alagoas,Janeiro,22°,30°,78
+Maceió,Alagoas,Fevereiro,23°,30°,88
+Maceió,Alagoas,Março,23°,30°,195
+Maceió,Alagoas,Abril,23°,30°,269
+Maceió,Alagoas,Maio,22°,29°,382
+Maceió,Alagoas,Junho,21°,28°,332
+Maceió,Alagoas,Julho,21°,27°,274
+Maceió,Alagoas,Agosto,20°,27°,155
+Maceió,Alagoas,Setembro,21°,28°,130
+Maceió,Alagoas,Outubro,21°,29°,74
+Maceió,Alagoas,Novembro,22°,30°,32
+Maceió,Alagoas,Dezembro,22°,30°,63
+Água Branca,Alagoas,Janeiro,23°,34°,46
+Água Branca,Alagoas,Fevereiro,23°,34°,46
+Água Branca,Alagoas,Março,23°,33°,84
+Água Branca,Alagoas,Abril,22°,32°,68
+Água Branca,Alagoas,Maio,21°,30°,69
+Água Branca,Alagoas,Junho,20°,27°,79
+Água Branca,Alagoas,Julho,19°,27°,75
+Água Branca,Alagoas,Agosto,19°,28°,39
+Água Branca,Alagoas,Setembro,20°,31°,19
+Água Branca,Alagoas,Outubro,21°,33°,14
+Água Branca,Alagoas,Novembro,22°,34°,19
+Água Branca,Alagoas,Dezembro,23°,34°,42
+Anadia,Alagoas,Janeiro,20°,30°,50
+Anadia,Alagoas,Fevereiro,21°,30°,55
+Anadia,Alagoas,Março,21°,30°,94
+Anadia,Alagoas,Abril,20°,28°,142
+Anadia,Alagoas,Maio,20°,26°,168
+Anadia,Alagoas,Junho,19°,24°,204
+Anadia,Alagoas,Julho,18°,23°,178
+Anadia,Alagoas,Agosto,18°,23°,116
+Anadia,Alagoas,Setembro,18°,25°,76
+Anadia,Alagoas,Outubro,19°,28°,42
+Anadia,Alagoas,Novembro,20°,30°,28
+Anadia,Alagoas,Dezembro,20°,30°,33
+Arapiraca,Alagoas,Janeiro,22°,31°,39
+Arapiraca,Alagoas,Fevereiro,23°,31°,37
+Arapiraca,Alagoas,Março,23°,31°,66
+Arapiraca,Alagoas,Abril,22°,29°,89
+Arapiraca,Alagoas,Maio,21°,27°,111
+Arapiraca,Alagoas,Junho,21°,25°,128
+Arapiraca,Alagoas,Julho,20°,25°,108
+Arapiraca,Alagoas,Agosto,20°,25°,71
+Arapiraca,Alagoas,Setembro,20°,26°,45
+Arapiraca,Alagoas,Outubro,21°,29°,26
+Arapiraca,Alagoas,Novembro,22°,30°,19
+Arapiraca,Alagoas,Dezembro,22°,31°,26
+Atalaia,Alagoas,Janeiro,21°,30°,50
+Atalaia,Alagoas,Fevereiro,22°,30°,55
+Atalaia,Alagoas,Março,22°,30°,94
+Atalaia,Alagoas,Abril,21°,29°,142
+Atalaia,Alagoas,Maio,20°,27°,168
+Atalaia,Alagoas,Junho,20°,25°,204
+Atalaia,Alagoas,Julho,19°,24°,178
+Atalaia,Alagoas,Agosto,18°,24°,116
+Atalaia,Alagoas,Setembro,19°,26°,76
+Atalaia,Alagoas,Outubro,20°,28°,42
+Atalaia,Alagoas,Novembro,21°,30°,28
+Atalaia,Alagoas,Dezembro,21°,30°,33
+Barra de Santo Antônio,Alagoas,Janeiro,24°,29°,63
+Barra de Santo Antônio,Alagoas,Fevereiro,25°,30°,77
+Barra de Santo Antônio,Alagoas,Março,25°,30°,112
+Barra de Santo Antônio,Alagoas,Abril,24°,29°,165
+Barra de Santo Antônio,Alagoas,Maio,24°,28°,189
+Barra de Santo Antônio,Alagoas,Junho,23°,26°,232
+Barra de Santo Antônio,Alagoas,Julho,23°,26°,223
+Barra de Santo Antônio,Alagoas,Agosto,22°,26°,154
+Barra de Santo Antônio,Alagoas,Setembro,23°,26°,85
+Barra de Santo Antônio,Alagoas,Outubro,23°,28°,49
+Barra de Santo Antônio,Alagoas,Novembro,24°,29°,36
+Barra de Santo Antônio,Alagoas,Dezembro,24°,29°,38
+Barra de São Miguel,Alagoas,Janeiro,25°,29°,65
+Barra de São Miguel,Alagoas,Fevereiro,25°,30°,86
+Barra de São Miguel,Alagoas,Março,25°,30°,132
+Barra de São Miguel,Alagoas,Abril,25°,29°,213
+Barra de São Miguel,Alagoas,Maio,24°,28°,234
+Barra de São Miguel,Alagoas,Junho,24°,26°,277
+Barra de São Miguel,Alagoas,Julho,23°,25°,243
+Barra de São Miguel,Alagoas,Agosto,23°,25°,152
+Barra de São Miguel,Alagoas,Setembro,23°,26°,95
+Barra de São Miguel,Alagoas,Outubro,24°,28°,54
+Barra de São Miguel,Alagoas,Novembro,24°,29°,42
+Barra de São Miguel,Alagoas,Dezembro,25°,29°,44
+Batalha,Alagoas,Janeiro,22°,32°,39
+Batalha,Alagoas,Fevereiro,22°,32°,36
+Batalha,Alagoas,Março,22°,32°,67
+Batalha,Alagoas,Abril,21°,30°,70
+Batalha,Alagoas,Maio,20°,28°,90
+Batalha,Alagoas,Junho,19°,25°,104
+Batalha,Alagoas,Julho,18°,25°,87
+Batalha,Alagoas,Agosto,18°,25°,56
+Batalha,Alagoas,Setembro,19°,28°,30
+Batalha,Alagoas,Outubro,20°,30°,18
+Batalha,Alagoas,Novembro,21°,32°,20
+Batalha,Alagoas,Dezembro,22°,32°,26
+Belém,Alagoas,Janeiro,20°,30°,50
+Belém,Alagoas,Fevereiro,21°,30°,55
+Belém,Alagoas,Março,21°,30°,94
+Belém,Alagoas,Abril,20°,28°,142
+Belém,Alagoas,Maio,20°,26°,168
+Belém,Alagoas,Junho,19°,24°,204
+Belém,Alagoas,Julho,18°,23°,178
+Belém,Alagoas,Agosto,18°,23°,116
+Belém,Alagoas,Setembro,18°,25°,76
+Belém,Alagoas,Outubro,19°,28°,42
+Belém,Alagoas,Novembro,20°,30°,28
+Belém,Alagoas,Dezembro,20°,30°,33
+Belo Monte,Alagoas,Janeiro,22°,33°,39
+Belo Monte,Alagoas,Fevereiro,23°,33°,36
+Belo Monte,Alagoas,Março,23°,33°,67
+Belo Monte,Alagoas,Abril,22°,31°,70
+Belo Monte,Alagoas,Maio,21°,29°,90
+Belo Monte,Alagoas,Junho,20°,26°,104
+Belo Monte,Alagoas,Julho,19°,26°,87
+Belo Monte,Alagoas,Agosto,19°,26°,56
+Belo Monte,Alagoas,Setembro,19°,29°,30
+Belo Monte,Alagoas,Outubro,21°,31°,18
+Belo Monte,Alagoas,Novembro,22°,33°,20
+Belo Monte,Alagoas,Dezembro,22°,33°,26
+Boca da Mata,Alagoas,Janeiro,21°,30°,50
+Boca da Mata,Alagoas,Fevereiro,22°,30°,55
+Boca da Mata,Alagoas,Março,22°,30°,94
+Boca da Mata,Alagoas,Abril,21°,29°,142
+Boca da Mata,Alagoas,Maio,20°,27°,168
+Boca da Mata,Alagoas,Junho,20°,25°,204
+Boca da Mata,Alagoas,Julho,19°,24°,178
+Boca da Mata,Alagoas,Agosto,18°,24°,116
+Boca da Mata,Alagoas,Setembro,19°,26°,76
+Boca da Mata,Alagoas,Outubro,20°,28°,42
+Boca da Mata,Alagoas,Novembro,21°,30°,28
+Boca da Mata,Alagoas,Dezembro,21°,30°,33
+Branquinha,Alagoas,Janeiro,19°,29°,54
+Branquinha,Alagoas,Fevereiro,20°,29°,61
+Branquinha,Alagoas,Março,20°,29°,93
+Branquinha,Alagoas,Abril,19°,28°,128
+Branquinha,Alagoas,Maio,19°,26°,148
+Branquinha,Alagoas,Junho,18°,24°,195
+Branquinha,Alagoas,Julho,18°,23°,186
+Branquinha,Alagoas,Agosto,17°,23°,127
+Branquinha,Alagoas,Setembro,17°,25°,70
+Branquinha,Alagoas,Outubro,18°,27°,35
+Branquinha,Alagoas,Novembro,19°,29°,25
+Branquinha,Alagoas,Dezembro,19°,29°,32
+Cacimbinhas,Alagoas,Janeiro,22°,32°,40
+Cacimbinhas,Alagoas,Fevereiro,22°,32°,48
+Cacimbinhas,Alagoas,Março,22°,32°,71
+Cacimbinhas,Alagoas,Abril,21°,30°,89
+Cacimbinhas,Alagoas,Maio,20°,28°,95
+Cacimbinhas,Alagoas,Junho,19°,25°,127
+Cacimbinhas,Alagoas,Julho,18°,25°,111
+Cacimbinhas,Alagoas,Agosto,18°,25°,74
+Cacimbinhas,Alagoas,Setembro,19°,28°,40
+Cacimbinhas,Alagoas,Outubro,20°,30°,21
+Cacimbinhas,Alagoas,Novembro,21°,32°,18
+Cacimbinhas,Alagoas,Dezembro,22°,32°,30
+Cajueiro,Alagoas,Janeiro,21°,30°,54
+Cajueiro,Alagoas,Fevereiro,22°,30°,61
+Cajueiro,Alagoas,Março,22°,30°,93
+Cajueiro,Alagoas,Abril,21°,29°,128
+Cajueiro,Alagoas,Maio,20°,27°,148
+Cajueiro,Alagoas,Junho,20°,25°,195
+Cajueiro,Alagoas,Julho,19°,24°,186
+Cajueiro,Alagoas,Agosto,18°,24°,127
+Cajueiro,Alagoas,Setembro,19°,26°,70
+Cajueiro,Alagoas,Outubro,20°,28°,35
+Cajueiro,Alagoas,Novembro,21°,30°,25
+Cajueiro,Alagoas,Dezembro,21°,30°,32
+Campestre,Alagoas,Janeiro,21°,29°,68
+Campestre,Alagoas,Fevereiro,22°,30°,71
+Campestre,Alagoas,Março,22°,30°,117
+Campestre,Alagoas,Abril,21°,29°,142
+Campestre,Alagoas,Maio,21°,27°,164
+Campestre,Alagoas,Junho,21°,25°,214
+Campestre,Alagoas,Julho,20°,24°,204
+Campestre,Alagoas,Agosto,20°,25°,141
+Campestre,Alagoas,Setembro,20°,26°,72
+Campestre,Alagoas,Outubro,20°,27°,38
+Campestre,Alagoas,Novembro,21°,29°,31
+Campestre,Alagoas,Dezembro,21°,29°,34
+Campo Alegre,Alagoas,Janeiro,22°,31°,50
+Campo Alegre,Alagoas,Fevereiro,23°,31°,55
+Campo Alegre,Alagoas,Março,23°,31°,94
+Campo Alegre,Alagoas,Abril,22°,29°,142
+Campo Alegre,Alagoas,Maio,21°,27°,168
+Campo Alegre,Alagoas,Junho,21°,25°,204
+Campo Alegre,Alagoas,Julho,20°,25°,178
+Campo Alegre,Alagoas,Agosto,20°,25°,116
+Campo Alegre,Alagoas,Setembro,20°,26°,76
+Campo Alegre,Alagoas,Outubro,21°,29°,42
+Campo Alegre,Alagoas,Novembro,22°,30°,28
+Campo Alegre,Alagoas,Dezembro,22°,31°,33
+Campo Grande,Alagoas,Janeiro,22°,32°,39
+Campo Grande,Alagoas,Fevereiro,23°,32°,37
+Campo Grande,Alagoas,Março,23°,32°,66
+Campo Grande,Alagoas,Abril,21°,31°,89
+Campo Grande,Alagoas,Maio,21°,28°,111
+Campo Grande,Alagoas,Junho,20°,26°,128
+Campo Grande,Alagoas,Julho,19°,25°,108
+Campo Grande,Alagoas,Agosto,19°,26°,71
+Campo Grande,Alagoas,Setembro,19°,28°,45
+Campo Grande,Alagoas,Outubro,20°,30°,26
+Campo Grande,Alagoas,Novembro,21°,32°,19
+Campo Grande,Alagoas,Dezembro,22°,33°,26
+Canafístula,Alagoas,Janeiro,20°,30°,40
+Canafístula,Alagoas,Fevereiro,21°,30°,48
+Canafístula,Alagoas,Março,21°,30°,71
+Canafístula,Alagoas,Abril,20°,28°,89
+Canafístula,Alagoas,Maio,20°,26°,95
+Canafístula,Alagoas,Junho,19°,24°,127
+Canafístula,Alagoas,Julho,18°,23°,111
+Canafístula,Alagoas,Agosto,18°,23°,74
+Canafístula,Alagoas,Setembro,18°,25°,40
+Canafístula,Alagoas,Outubro,19°,28°,21
+Canafístula,Alagoas,Novembro,20°,30°,18
+Canafístula,Alagoas,Dezembro,20°,30°,30
+Canapi,Alagoas,Janeiro,21°,32°,46
+Canapi,Alagoas,Fevereiro,22°,32°,46
+Canapi,Alagoas,Março,22°,32°,84
+Canapi,Alagoas,Abril,21°,31°,68
+Canapi,Alagoas,Maio,20°,29°,69
+Canapi,Alagoas,Junho,19°,26°,79
+Canapi,Alagoas,Julho,18°,26°,75
+Canapi,Alagoas,Agosto,18°,26°,39
+Canapi,Alagoas,Setembro,19°,29°,19
+Canapi,Alagoas,Outubro,20°,32°,14
+Canapi,Alagoas,Novembro,21°,33°,19
+Canapi,Alagoas,Dezembro,21°,33°,42
+Capela,Alagoas,Janeiro,21°,30°,54
+Capela,Alagoas,Fevereiro,22°,30°,61
+Capela,Alagoas,Março,22°,30°,93
+Capela,Alagoas,Abril,21°,29°,128
+Capela,Alagoas,Maio,20°,27°,148
+Capela,Alagoas,Junho,20°,25°,195
+Capela,Alagoas,Julho,19°,24°,186
+Capela,Alagoas,Agosto,18°,24°,127
+Capela,Alagoas,Setembro,19°,26°,70
+Capela,Alagoas,Outubro,20°,28°,35
+Capela,Alagoas,Novembro,21°,30°,25
+Capela,Alagoas,Dezembro,21°,30°,32
+Carneiros,Alagoas,Janeiro,23°,33°,41
+Carneiros,Alagoas,Fevereiro,23°,33°,44
+Carneiros,Alagoas,Março,23°,33°,73
+Carneiros,Alagoas,Abril,21°,32°,72
+Carneiros,Alagoas,Maio,21°,29°,77
+Carneiros,Alagoas,Junho,20°,27°,98
+Carneiros,Alagoas,Julho,19°,26°,85
+Carneiros,Alagoas,Agosto,19°,27°,52
+Carneiros,Alagoas,Setembro,19°,30°,26
+Carneiros,Alagoas,Outubro,21°,32°,16
+Carneiros,Alagoas,Novembro,22°,34°,18
+Carneiros,Alagoas,Dezembro,23°,34°,34
+Chã Preta,Alagoas,Janeiro,20°,30°,54
+Chã Preta,Alagoas,Fevereiro,21°,30°,61
+Chã Preta,Alagoas,Março,21°,30°,93
+Chã Preta,Alagoas,Abril,20°,28°,128
+Chã Preta,Alagoas,Maio,20°,26°,148
+Chã Preta,Alagoas,Junho,19°,24°,195
+Chã Preta,Alagoas,Julho,18°,23°,186
+Chã Preta,Alagoas,Agosto,18°,23°,127
+Chã Preta,Alagoas,Setembro,18°,25°,70
+Chã Preta,Alagoas,Outubro,19°,28°,35
+Chã Preta,Alagoas,Novembro,20°,30°,25
+Chã Preta,Alagoas,Dezembro,20°,30°,32
+Coité do Nóia,Alagoas,Janeiro,20°,30°,39
+Coité do Nóia,Alagoas,Fevereiro,21°,30°,37
+Coité do Nóia,Alagoas,Março,21°,30°,66
+Coité do Nóia,Alagoas,Abril,20°,28°,89
+Coité do Nóia,Alagoas,Maio,20°,26°,111
+Coité do Nóia,Alagoas,Junho,19°,24°,128
+Coité do Nóia,Alagoas,Julho,18°,23°,108
+Coité do Nóia,Alagoas,Agosto,18°,23°,71
+Coité do Nóia,Alagoas,Setembro,18°,25°,45
+Coité do Nóia,Alagoas,Outubro,19°,28°,26
+Coité do Nóia,Alagoas,Novembro,20°,30°,19
+Coité do Nóia,Alagoas,Dezembro,20°,30°,26
+Colônia Leopoldina,Alagoas,Janeiro,21°,29°,68
+Colônia Leopoldina,Alagoas,Fevereiro,22°,30°,71
+Colônia Leopoldina,Alagoas,Março,22°,30°,117
+Colônia Leopoldina,Alagoas,Abril,21°,29°,142
+Colônia Leopoldina,Alagoas,Maio,21°,27°,164
+Colônia Leopoldina,Alagoas,Junho,21°,25°,214
+Colônia Leopoldina,Alagoas,Julho,20°,24°,204
+Colônia Leopoldina,Alagoas,Agosto,20°,25°,141
+Colônia Leopoldina,Alagoas,Setembro,20°,26°,72
+Colônia Leopoldina,Alagoas,Outubro,20°,27°,38
+Colônia Leopoldina,Alagoas,Novembro,21°,29°,31
+Colônia Leopoldina,Alagoas,Dezembro,21°,29°,34
+Coqueiro Seco,Alagoas,Janeiro,21°,30°,65
+Coqueiro Seco,Alagoas,Fevereiro,22°,30°,86
+Coqueiro Seco,Alagoas,Março,22°,30°,132
+Coqueiro Seco,Alagoas,Abril,21°,29°,213
+Coqueiro Seco,Alagoas,Maio,20°,27°,234
+Coqueiro Seco,Alagoas,Junho,20°,25°,277
+Coqueiro Seco,Alagoas,Julho,19°,24°,243
+Coqueiro Seco,Alagoas,Agosto,18°,24°,152
+Coqueiro Seco,Alagoas,Setembro,19°,26°,95
+Coqueiro Seco,Alagoas,Outubro,20°,28°,54
+Coqueiro Seco,Alagoas,Novembro,21°,30°,42
+Coqueiro Seco,Alagoas,Dezembro,21°,30°,44
+Coruripe,Alagoas,Janeiro,22°,32°,22
+Coruripe,Alagoas,Fevereiro,22°,31°,47
+Coruripe,Alagoas,Março,22°,31°,167
+Coruripe,Alagoas,Abril,22°,30°,139
+Coruripe,Alagoas,Maio,21°,29°,190
+Coruripe,Alagoas,Junho,21°,28°,224
+Coruripe,Alagoas,Julho,20°,27°,153
+Coruripe,Alagoas,Agosto,20°,28°,98
+Coruripe,Alagoas,Setembro,20°,28°,65
+Coruripe,Alagoas,Outubro,21°,29°,36
+Coruripe,Alagoas,Novembro,21°,31°,15
+Coruripe,Alagoas,Dezembro,22°,31°,24
+Craíbas,Alagoas,Janeiro,22°,32°,39
+Craíbas,Alagoas,Fevereiro,22°,32°,37
+Craíbas,Alagoas,Março,22°,32°,66
+Craíbas,Alagoas,Abril,21°,30°,89
+Craíbas,Alagoas,Maio,20°,28°,111
+Craíbas,Alagoas,Junho,19°,25°,128
+Craíbas,Alagoas,Julho,18°,25°,108
+Craíbas,Alagoas,Agosto,18°,25°,71
+Craíbas,Alagoas,Setembro,19°,28°,45
+Craíbas,Alagoas,Outubro,20°,30°,26
+Craíbas,Alagoas,Novembro,21°,32°,19
+Craíbas,Alagoas,Dezembro,22°,32°,26
+Delmiro Gouveia,Alagoas,Janeiro,23°,34°,46
+Delmiro Gouveia,Alagoas,Fevereiro,23°,34°,46
+Delmiro Gouveia,Alagoas,Março,23°,33°,84
+Delmiro Gouveia,Alagoas,Abril,22°,32°,68
+Delmiro Gouveia,Alagoas,Maio,21°,30°,69
+Delmiro Gouveia,Alagoas,Junho,20°,27°,79
+Delmiro Gouveia,Alagoas,Julho,19°,27°,75
+Delmiro Gouveia,Alagoas,Agosto,19°,28°,39
+Delmiro Gouveia,Alagoas,Setembro,20°,31°,19
+Delmiro Gouveia,Alagoas,Outubro,21°,33°,14
+Delmiro Gouveia,Alagoas,Novembro,22°,34°,19
+Delmiro Gouveia,Alagoas,Dezembro,23°,34°,42
+Dois Riachos,Alagoas,Janeiro,22°,32°,41
+Dois Riachos,Alagoas,Fevereiro,22°,32°,44
+Dois Riachos,Alagoas,Março,22°,32°,73
+Dois Riachos,Alagoas,Abril,21°,30°,72
+Dois Riachos,Alagoas,Maio,20°,28°,77
+Dois Riachos,Alagoas,Junho,19°,25°,98
+Dois Riachos,Alagoas,Julho,18°,25°,85
+Dois Riachos,Alagoas,Agosto,18°,25°,52
+Dois Riachos,Alagoas,Setembro,19°,28°,26
+Dois Riachos,Alagoas,Outubro,20°,30°,16
+Dois Riachos,Alagoas,Novembro,21°,32°,18
+Dois Riachos,Alagoas,Dezembro,22°,32°,34
+Estrela de Alagoas,Alagoas,Janeiro,22°,32°,40
+Estrela de Alagoas,Alagoas,Fevereiro,22°,32°,48
+Estrela de Alagoas,Alagoas,Março,22°,32°,71
+Estrela de Alagoas,Alagoas,Abril,21°,30°,89
+Estrela de Alagoas,Alagoas,Maio,20°,28°,95
+Estrela de Alagoas,Alagoas,Junho,19°,25°,127
+Estrela de Alagoas,Alagoas,Julho,18°,25°,111
+Estrela de Alagoas,Alagoas,Agosto,18°,25°,74
+Estrela de Alagoas,Alagoas,Setembro,19°,28°,40
+Estrela de Alagoas,Alagoas,Outubro,20°,30°,21
+Estrela de Alagoas,Alagoas,Novembro,21°,32°,18
+Estrela de Alagoas,Alagoas,Dezembro,22°,32°,30
+Feira Grande,Alagoas,Janeiro,22°,31°,39
+Feira Grande,Alagoas,Fevereiro,23°,31°,37
+Feira Grande,Alagoas,Março,23°,31°,66
+Feira Grande,Alagoas,Abril,22°,29°,89
+Feira Grande,Alagoas,Maio,21°,27°,111
+Feira Grande,Alagoas,Junho,21°,25°,128
+Feira Grande,Alagoas,Julho,20°,25°,108
+Feira Grande,Alagoas,Agosto,20°,25°,71
+Feira Grande,Alagoas,Setembro,20°,26°,45
+Feira Grande,Alagoas,Outubro,21°,29°,26
+Feira Grande,Alagoas,Novembro,22°,30°,19
+Feira Grande,Alagoas,Dezembro,22°,31°,26
+Feliz Deserto,Alagoas,Janeiro,25°,30°,52
+Feliz Deserto,Alagoas,Fevereiro,25°,30°,55
+Feliz Deserto,Alagoas,Março,25°,30°,93
+Feliz Deserto,Alagoas,Abril,25°,29°,154
+Feliz Deserto,Alagoas,Maio,24°,28°,184
+Feliz Deserto,Alagoas,Junho,24°,26°,187
+Feliz Deserto,Alagoas,Julho,23°,26°,165
+Feliz Deserto,Alagoas,Agosto,23°,26°,103
+Feliz Deserto,Alagoas,Setembro,23°,27°,68
+Feliz Deserto,Alagoas,Outubro,24°,28°,47
+Feliz Deserto,Alagoas,Novembro,24°,29°,34
+Feliz Deserto,Alagoas,Dezembro,25°,30°,31
+Flexeiras,Alagoas,Janeiro,19°,29°,63
+Flexeiras,Alagoas,Fevereiro,20°,29°,77
+Flexeiras,Alagoas,Março,20°,29°,112
+Flexeiras,Alagoas,Abril,19°,28°,165
+Flexeiras,Alagoas,Maio,19°,26°,189
+Flexeiras,Alagoas,Junho,18°,24°,232
+Flexeiras,Alagoas,Julho,18°,23°,223
+Flexeiras,Alagoas,Agosto,17°,23°,154
+Flexeiras,Alagoas,Setembro,17°,25°,85
+Flexeiras,Alagoas,Outubro,18°,27°,49
+Flexeiras,Alagoas,Novembro,19°,29°,36
+Flexeiras,Alagoas,Dezembro,19°,29°,38
+Girau do Ponciano,Alagoas,Janeiro,22°,32°,39
+Girau do Ponciano,Alagoas,Fevereiro,23°,32°,37
+Girau do Ponciano,Alagoas,Março,23°,32°,66
+Girau do Ponciano,Alagoas,Abril,21°,31°,89
+Girau do Ponciano,Alagoas,Maio,21°,28°,111
+Girau do Ponciano,Alagoas,Junho,20°,26°,128
+Girau do Ponciano,Alagoas,Julho,19°,25°,108
+Girau do Ponciano,Alagoas,Agosto,19°,26°,71
+Girau do Ponciano,Alagoas,Setembro,19°,28°,45
+Girau do Ponciano,Alagoas,Outubro,20°,30°,26
+Girau do Ponciano,Alagoas,Novembro,21°,32°,19
+Girau do Ponciano,Alagoas,Dezembro,22°,33°,26
+Ibateguara,Alagoas,Janeiro,19°,29°,68
+Ibateguara,Alagoas,Fevereiro,20°,29°,71
+Ibateguara,Alagoas,Março,20°,29°,117
+Ibateguara,Alagoas,Abril,19°,28°,142
+Ibateguara,Alagoas,Maio,19°,26°,164
+Ibateguara,Alagoas,Junho,18°,24°,214
+Ibateguara,Alagoas,Julho,18°,23°,204
+Ibateguara,Alagoas,Agosto,17°,23°,141
+Ibateguara,Alagoas,Setembro,17°,25°,72
+Ibateguara,Alagoas,Outubro,18°,27°,38
+Ibateguara,Alagoas,Novembro,19°,29°,31
+Ibateguara,Alagoas,Dezembro,19°,29°,34
+Igaci,Alagoas,Janeiro,20°,30°,39
+Igaci,Alagoas,Fevereiro,21°,30°,37
+Igaci,Alagoas,Março,21°,30°,66
+Igaci,Alagoas,Abril,20°,28°,89
+Igaci,Alagoas,Maio,20°,26°,111
+Igaci,Alagoas,Junho,19°,24°,128
+Igaci,Alagoas,Julho,18°,23°,108
+Igaci,Alagoas,Agosto,18°,23°,71
+Igaci,Alagoas,Setembro,18°,25°,45
+Igaci,Alagoas,Outubro,19°,28°,26
+Igaci,Alagoas,Novembro,20°,30°,19
+Igaci,Alagoas,Dezembro,20°,30°,26
+Igreja Nova,Alagoas,Janeiro,22°,31°,43
+Igreja Nova,Alagoas,Fevereiro,23°,31°,44
+Igreja Nova,Alagoas,Março,23°,31°,75
+Igreja Nova,Alagoas,Abril,22°,29°,125
+Igreja Nova,Alagoas,Maio,21°,27°,159
+Igreja Nova,Alagoas,Junho,21°,25°,163
+Igreja Nova,Alagoas,Julho,20°,25°,143
+Igreja Nova,Alagoas,Agosto,20°,25°,92
+Igreja Nova,Alagoas,Setembro,20°,26°,59
+Igreja Nova,Alagoas,Outubro,21°,29°,39
+Igreja Nova,Alagoas,Novembro,22°,30°,28
+Igreja Nova,Alagoas,Dezembro,22°,31°,27
+Inhapi,Alagoas,Janeiro,21°,32°,46
+Inhapi,Alagoas,Fevereiro,22°,32°,46
+Inhapi,Alagoas,Março,22°,32°,84
+Inhapi,Alagoas,Abril,21°,31°,68
+Inhapi,Alagoas,Maio,20°,29°,69
+Inhapi,Alagoas,Junho,19°,26°,79
+Inhapi,Alagoas,Julho,18°,26°,75
+Inhapi,Alagoas,Agosto,18°,26°,39
+Inhapi,Alagoas,Setembro,19°,29°,19
+Inhapi,Alagoas,Outubro,20°,32°,14
+Inhapi,Alagoas,Novembro,21°,33°,19
+Inhapi,Alagoas,Dezembro,21°,33°,42
+Jacaré dos Homens,Alagoas,Janeiro,22°,32°,39
+Jacaré dos Homens,Alagoas,Fevereiro,22°,32°,36
+Jacaré dos Homens,Alagoas,Março,22°,32°,67
+Jacaré dos Homens,Alagoas,Abril,21°,30°,70
+Jacaré dos Homens,Alagoas,Maio,20°,28°,90
+Jacaré dos Homens,Alagoas,Junho,19°,25°,104
+Jacaré dos Homens,Alagoas,Julho,18°,25°,87
+Jacaré dos Homens,Alagoas,Agosto,18°,25°,56
+Jacaré dos Homens,Alagoas,Setembro,19°,28°,30
+Jacaré dos Homens,Alagoas,Outubro,20°,30°,18
+Jacaré dos Homens,Alagoas,Novembro,21°,32°,20
+Jacaré dos Homens,Alagoas,Dezembro,22°,32°,26
+Jacuípe,Alagoas,Janeiro,21°,29°,92
+Jacuípe,Alagoas,Fevereiro,22°,30°,107
+Jacuípe,Alagoas,Março,22°,30°,167
+Jacuípe,Alagoas,Abril,21°,29°,205
+Jacuípe,Alagoas,Maio,21°,27°,246
+Jacuípe,Alagoas,Junho,21°,25°,300
+Jacuípe,Alagoas,Julho,20°,24°,293
+Jacuípe,Alagoas,Agosto,20°,25°,179
+Jacuípe,Alagoas,Setembro,20°,26°,106
+Jacuípe,Alagoas,Outubro,20°,27°,50
+Jacuípe,Alagoas,Novembro,21°,29°,49
+Jacuípe,Alagoas,Dezembro,21°,29°,49
+Japaratinga,Alagoas,Janeiro,21°,29°,76
+Japaratinga,Alagoas,Fevereiro,22°,30°,98
+Japaratinga,Alagoas,Março,22°,30°,146
+Japaratinga,Alagoas,Abril,21°,29°,207
+Japaratinga,Alagoas,Maio,21°,27°,235
+Japaratinga,Alagoas,Junho,21°,25°,281
+Japaratinga,Alagoas,Julho,20°,24°,255
+Japaratinga,Alagoas,Agosto,20°,25°,162
+Japaratinga,Alagoas,Setembro,20°,26°,97
+Japaratinga,Alagoas,Outubro,20°,27°,51
+Japaratinga,Alagoas,Novembro,21°,29°,46
+Japaratinga,Alagoas,Dezembro,21°,29°,44
+Jaramataia,Alagoas,Janeiro,22°,32°,39
+Jaramataia,Alagoas,Fevereiro,22°,32°,36
+Jaramataia,Alagoas,Março,22°,32°,67
+Jaramataia,Alagoas,Abril,21°,30°,70
+Jaramataia,Alagoas,Maio,20°,28°,90
+Jaramataia,Alagoas,Junho,19°,25°,104
+Jaramataia,Alagoas,Julho,18°,25°,87
+Jaramataia,Alagoas,Agosto,18°,25°,56
+Jaramataia,Alagoas,Setembro,19°,28°,30
+Jaramataia,Alagoas,Outubro,20°,30°,18
+Jaramataia,Alagoas,Novembro,21°,32°,20
+Jaramataia,Alagoas,Dezembro,22°,32°,26
+Joaquim Gomes,Alagoas,Janeiro,21°,29°,63
+Joaquim Gomes,Alagoas,Fevereiro,22°,30°,77
+Joaquim Gomes,Alagoas,Março,22°,30°,112
+Joaquim Gomes,Alagoas,Abril,21°,29°,165
+Joaquim Gomes,Alagoas,Maio,21°,27°,189
+Joaquim Gomes,Alagoas,Junho,21°,25°,232
+Joaquim Gomes,Alagoas,Julho,20°,24°,223
+Joaquim Gomes,Alagoas,Agosto,20°,25°,154
+Joaquim Gomes,Alagoas,Setembro,20°,26°,85
+Joaquim Gomes,Alagoas,Outubro,20°,27°,49
+Joaquim Gomes,Alagoas,Novembro,21°,29°,36
+Joaquim Gomes,Alagoas,Dezembro,21°,29°,38
+Jundiá,Alagoas,Janeiro,21°,29°,68
+Jundiá,Alagoas,Fevereiro,22°,30°,71
+Jundiá,Alagoas,Março,22°,30°,117
+Jundiá,Alagoas,Abril,21°,29°,142
+Jundiá,Alagoas,Maio,21°,27°,164
+Jundiá,Alagoas,Junho,21°,25°,214
+Jundiá,Alagoas,Julho,20°,24°,204
+Jundiá,Alagoas,Agosto,20°,25°,141
+Jundiá,Alagoas,Setembro,20°,26°,72
+Jundiá,Alagoas,Outubro,20°,27°,38
+Jundiá,Alagoas,Novembro,21°,29°,31
+Jundiá,Alagoas,Dezembro,21°,29°,34
+Junqueiro,Alagoas,Janeiro,22°,31°,50
+Junqueiro,Alagoas,Fevereiro,23°,31°,55
+Junqueiro,Alagoas,Março,23°,31°,94
+Junqueiro,Alagoas,Abril,22°,29°,142
+Junqueiro,Alagoas,Maio,21°,27°,168
+Junqueiro,Alagoas,Junho,21°,25°,204
+Junqueiro,Alagoas,Julho,20°,25°,178
+Junqueiro,Alagoas,Agosto,20°,25°,116
+Junqueiro,Alagoas,Setembro,20°,26°,76
+Junqueiro,Alagoas,Outubro,21°,29°,42
+Junqueiro,Alagoas,Novembro,22°,30°,28
+Junqueiro,Alagoas,Dezembro,22°,31°,33
+Lagoa da Canoa,Alagoas,Janeiro,22°,31°,39
+Lagoa da Canoa,Alagoas,Fevereiro,23°,31°,37
+Lagoa da Canoa,Alagoas,Março,23°,31°,66
+Lagoa da Canoa,Alagoas,Abril,22°,29°,89
+Lagoa da Canoa,Alagoas,Maio,21°,27°,111
+Lagoa da Canoa,Alagoas,Junho,21°,25°,128
+Lagoa da Canoa,Alagoas,Julho,20°,25°,108
+Lagoa da Canoa,Alagoas,Agosto,20°,25°,71
+Lagoa da Canoa,Alagoas,Setembro,20°,26°,45
+Lagoa da Canoa,Alagoas,Outubro,21°,29°,26
+Lagoa da Canoa,Alagoas,Novembro,22°,30°,19
+Lagoa da Canoa,Alagoas,Dezembro,22°,31°,26
+Limoeiro de Anadia,Alagoas,Janeiro,20°,30°,39
+Limoeiro de Anadia,Alagoas,Fevereiro,21°,30°,37
+Limoeiro de Anadia,Alagoas,Março,21°,30°,66
+Limoeiro de Anadia,Alagoas,Abril,20°,28°,89
+Limoeiro de Anadia,Alagoas,Maio,20°,26°,111
+Limoeiro de Anadia,Alagoas,Junho,19°,24°,128
+Limoeiro de Anadia,Alagoas,Julho,18°,23°,108
+Limoeiro de Anadia,Alagoas,Agosto,18°,23°,71
+Limoeiro de Anadia,Alagoas,Setembro,18°,25°,45
+Limoeiro de Anadia,Alagoas,Outubro,19°,28°,26
+Limoeiro de Anadia,Alagoas,Novembro,20°,30°,19
+Limoeiro de Anadia,Alagoas,Dezembro,20°,30°,26
+Major Isidoro,Alagoas,Janeiro,22°,32°,39
+Major Isidoro,Alagoas,Fevereiro,22°,32°,37
+Major Isidoro,Alagoas,Março,22°,32°,66
+Major Isidoro,Alagoas,Abril,21°,30°,89
+Major Isidoro,Alagoas,Maio,20°,28°,111
+Major Isidoro,Alagoas,Junho,19°,25°,128
+Major Isidoro,Alagoas,Julho,18°,25°,108
+Major Isidoro,Alagoas,Agosto,18°,25°,71
+Major Isidoro,Alagoas,Setembro,19°,28°,45
+Major Isidoro,Alagoas,Outubro,20°,30°,26
+Major Isidoro,Alagoas,Novembro,21°,32°,19
+Major Isidoro,Alagoas,Dezembro,22°,32°,26
+Maragogi,Alagoas,Janeiro,21°,29°,76
+Maragogi,Alagoas,Fevereiro,22°,30°,98
+Maragogi,Alagoas,Março,22°,30°,146
+Maragogi,Alagoas,Abril,21°,29°,207
+Maragogi,Alagoas,Maio,21°,27°,235
+Maragogi,Alagoas,Junho,21°,25°,281
+Maragogi,Alagoas,Julho,20°,24°,255
+Maragogi,Alagoas,Agosto,20°,25°,162
+Maragogi,Alagoas,Setembro,20°,26°,97
+Maragogi,Alagoas,Outubro,20°,27°,51
+Maragogi,Alagoas,Novembro,21°,29°,46
+Maragogi,Alagoas,Dezembro,21°,29°,44
+Maravilha,Alagoas,Janeiro,21°,32°,41
+Maravilha,Alagoas,Fevereiro,22°,32°,44
+Maravilha,Alagoas,Março,22°,32°,73
+Maravilha,Alagoas,Abril,21°,31°,72
+Maravilha,Alagoas,Maio,20°,29°,77
+Maravilha,Alagoas,Junho,19°,26°,98
+Maravilha,Alagoas,Julho,18°,26°,85
+Maravilha,Alagoas,Agosto,18°,26°,52
+Maravilha,Alagoas,Setembro,19°,29°,26
+Maravilha,Alagoas,Outubro,20°,32°,16
+Maravilha,Alagoas,Novembro,21°,33°,18
+Maravilha,Alagoas,Dezembro,21°,33°,34
+Marechal Deodoro,Alagoas,Janeiro,21°,30°,65
+Marechal Deodoro,Alagoas,Fevereiro,22°,30°,86
+Marechal Deodoro,Alagoas,Março,22°,30°,132
+Marechal Deodoro,Alagoas,Abril,21°,29°,213
+Marechal Deodoro,Alagoas,Maio,20°,27°,234
+Marechal Deodoro,Alagoas,Junho,20°,25°,277
+Marechal Deodoro,Alagoas,Julho,19°,24°,243
+Marechal Deodoro,Alagoas,Agosto,18°,24°,152
+Marechal Deodoro,Alagoas,Setembro,19°,26°,95
+Marechal Deodoro,Alagoas,Outubro,20°,28°,54
+Marechal Deodoro,Alagoas,Novembro,21°,30°,42
+Marechal Deodoro,Alagoas,Dezembro,21°,30°,44
+Maribondo,Alagoas,Janeiro,20°,30°,50
+Maribondo,Alagoas,Fevereiro,21°,30°,55
+Maribondo,Alagoas,Março,21°,30°,94
+Maribondo,Alagoas,Abril,20°,28°,142
+Maribondo,Alagoas,Maio,20°,26°,168
+Maribondo,Alagoas,Junho,19°,24°,204
+Maribondo,Alagoas,Julho,18°,23°,178
+Maribondo,Alagoas,Agosto,18°,23°,116
+Maribondo,Alagoas,Setembro,18°,25°,76
+Maribondo,Alagoas,Outubro,19°,28°,42
+Maribondo,Alagoas,Novembro,20°,30°,28
+Maribondo,Alagoas,Dezembro,20°,30°,33
+Mar Vermelho,Alagoas,Janeiro,20°,30°,54
+Mar Vermelho,Alagoas,Fevereiro,21°,30°,61
+Mar Vermelho,Alagoas,Março,21°,30°,93
+Mar Vermelho,Alagoas,Abril,20°,28°,128
+Mar Vermelho,Alagoas,Maio,20°,26°,148
+Mar Vermelho,Alagoas,Junho,19°,24°,195
+Mar Vermelho,Alagoas,Julho,18°,23°,186
+Mar Vermelho,Alagoas,Agosto,18°,23°,127
+Mar Vermelho,Alagoas,Setembro,18°,25°,70
+Mar Vermelho,Alagoas,Outubro,19°,28°,35
+Mar Vermelho,Alagoas,Novembro,20°,30°,25
+Mar Vermelho,Alagoas,Dezembro,20°,30°,32
+Mata Grande,Alagoas,Janeiro,18°,32°,62
+Mata Grande,Alagoas,Fevereiro,18°,32°,80
+Mata Grande,Alagoas,Março,19°,32°,111
+Mata Grande,Alagoas,Abril,18°,31°,99
+Mata Grande,Alagoas,Maio,18°,29°,179
+Mata Grande,Alagoas,Junho,17°,26°,176
+Mata Grande,Alagoas,Julho,16°,26°,207
+Mata Grande,Alagoas,Agosto,16°,26°,102
+Mata Grande,Alagoas,Setembro,17°,29°,44
+Mata Grande,Alagoas,Outubro,17°,32°,17
+Mata Grande,Alagoas,Novembro,18°,33°,29
+Mata Grande,Alagoas,Dezembro,18°,33°,64
+Matriz de Camaragibe,Alagoas,Janeiro,21°,29°,63
+Matriz de Camaragibe,Alagoas,Fevereiro,22°,30°,77
+Matriz de Camaragibe,Alagoas,Março,22°,30°,112
+Matriz de Camaragibe,Alagoas,Abril,21°,29°,165
+Matriz de Camaragibe,Alagoas,Maio,21°,27°,189
+Matriz de Camaragibe,Alagoas,Junho,21°,25°,232
+Matriz de Camaragibe,Alagoas,Julho,20°,24°,223
+Matriz de Camaragibe,Alagoas,Agosto,20°,25°,154
+Matriz de Camaragibe,Alagoas,Setembro,20°,26°,85
+Matriz de Camaragibe,Alagoas,Outubro,20°,27°,49
+Matriz de Camaragibe,Alagoas,Novembro,21°,29°,36
+Matriz de Camaragibe,Alagoas,Dezembro,21°,29°,38
+Messias,Alagoas,Janeiro,21°,30°,63
+Messias,Alagoas,Fevereiro,22°,30°,77
+Messias,Alagoas,Março,22°,30°,112
+Messias,Alagoas,Abril,21°,29°,165
+Messias,Alagoas,Maio,20°,27°,189
+Messias,Alagoas,Junho,20°,25°,232
+Messias,Alagoas,Julho,19°,24°,223
+Messias,Alagoas,Agosto,18°,24°,154
+Messias,Alagoas,Setembro,19°,26°,85
+Messias,Alagoas,Outubro,20°,28°,49
+Messias,Alagoas,Novembro,21°,30°,36
+Messias,Alagoas,Dezembro,21°,30°,38
+Minador do Negrão,Alagoas,Janeiro,22°,32°,40
+Minador do Negrão,Alagoas,Fevereiro,22°,32°,48
+Minador do Negrão,Alagoas,Março,22°,32°,71
+Minador do Negrão,Alagoas,Abril,21°,30°,89
+Minador do Negrão,Alagoas,Maio,20°,28°,95
+Minador do Negrão,Alagoas,Junho,19°,25°,127
+Minador do Negrão,Alagoas,Julho,18°,25°,111
+Minador do Negrão,Alagoas,Agosto,18°,25°,74
+Minador do Negrão,Alagoas,Setembro,19°,28°,40
+Minador do Negrão,Alagoas,Outubro,20°,30°,21
+Minador do Negrão,Alagoas,Novembro,21°,32°,18
+Minador do Negrão,Alagoas,Dezembro,22°,32°,30
+Monteirópolis,Alagoas,Janeiro,22°,32°,39
+Monteirópolis,Alagoas,Fevereiro,22°,32°,36
+Monteirópolis,Alagoas,Março,22°,32°,67
+Monteirópolis,Alagoas,Abril,21°,30°,70
+Monteirópolis,Alagoas,Maio,20°,28°,90
+Monteirópolis,Alagoas,Junho,19°,25°,104
+Monteirópolis,Alagoas,Julho,18°,25°,87
+Monteirópolis,Alagoas,Agosto,18°,25°,56
+Monteirópolis,Alagoas,Setembro,19°,28°,30
+Monteirópolis,Alagoas,Outubro,20°,30°,18
+Monteirópolis,Alagoas,Novembro,21°,32°,20
+Monteirópolis,Alagoas,Dezembro,22°,32°,26
+Murici,Alagoas,Janeiro,21°,30°,63
+Murici,Alagoas,Fevereiro,22°,30°,77
+Murici,Alagoas,Março,22°,30°,112
+Murici,Alagoas,Abril,21°,29°,165
+Murici,Alagoas,Maio,20°,27°,189
+Murici,Alagoas,Junho,20°,25°,232
+Murici,Alagoas,Julho,19°,24°,223
+Murici,Alagoas,Agosto,18°,24°,154
+Murici,Alagoas,Setembro,19°,26°,85
+Murici,Alagoas,Outubro,20°,28°,49
+Murici,Alagoas,Novembro,21°,30°,36
+Murici,Alagoas,Dezembro,21°,30°,38
+Novo Lino,Alagoas,Janeiro,21°,29°,68
+Novo Lino,Alagoas,Fevereiro,22°,30°,71
+Novo Lino,Alagoas,Março,22°,30°,117
+Novo Lino,Alagoas,Abril,21°,29°,142
+Novo Lino,Alagoas,Maio,21°,27°,164
+Novo Lino,Alagoas,Junho,21°,25°,214
+Novo Lino,Alagoas,Julho,20°,24°,204
+Novo Lino,Alagoas,Agosto,20°,25°,141
+Novo Lino,Alagoas,Setembro,20°,26°,72
+Novo Lino,Alagoas,Outubro,20°,27°,38
+Novo Lino,Alagoas,Novembro,21°,29°,31
+Novo Lino,Alagoas,Dezembro,21°,29°,34
+Olivença,Alagoas,Janeiro,22°,32°,39
+Olivença,Alagoas,Fevereiro,22°,32°,36
+Olivença,Alagoas,Março,22°,32°,67
+Olivença,Alagoas,Abril,21°,30°,70
+Olivença,Alagoas,Maio,20°,28°,90
+Olivença,Alagoas,Junho,19°,25°,104
+Olivença,Alagoas,Julho,18°,25°,87
+Olivença,Alagoas,Agosto,18°,25°,56
+Olivença,Alagoas,Setembro,19°,28°,30
+Olivença,Alagoas,Outubro,20°,30°,18
+Olivença,Alagoas,Novembro,21°,32°,20
+Olivença,Alagoas,Dezembro,22°,32°,26
+Ouro Branco,Alagoas,Janeiro,21°,32°,41
+Ouro Branco,Alagoas,Fevereiro,22°,32°,44
+Ouro Branco,Alagoas,Março,22°,32°,73
+Ouro Branco,Alagoas,Abril,21°,31°,72
+Ouro Branco,Alagoas,Maio,20°,29°,77
+Ouro Branco,Alagoas,Junho,19°,26°,98
+Ouro Branco,Alagoas,Julho,18°,26°,85
+Ouro Branco,Alagoas,Agosto,18°,26°,52
+Ouro Branco,Alagoas,Setembro,19°,29°,26
+Ouro Branco,Alagoas,Outubro,20°,32°,16
+Ouro Branco,Alagoas,Novembro,21°,33°,18
+Ouro Branco,Alagoas,Dezembro,21°,33°,34
+Palestina,Alagoas,Janeiro,23°,33°,39
+Palestina,Alagoas,Fevereiro,23°,33°,36
+Palestina,Alagoas,Março,23°,33°,67
+Palestina,Alagoas,Abril,21°,32°,70
+Palestina,Alagoas,Maio,21°,29°,90
+Palestina,Alagoas,Junho,20°,27°,104
+Palestina,Alagoas,Julho,19°,26°,87
+Palestina,Alagoas,Agosto,19°,27°,56
+Palestina,Alagoas,Setembro,19°,30°,30
+Palestina,Alagoas,Outubro,21°,32°,18
+Palestina,Alagoas,Novembro,22°,34°,20
+Palestina,Alagoas,Dezembro,23°,34°,26
+Palmeira dos Índios,Alagoas,Janeiro,21°,30°,15
+Palmeira dos Índios,Alagoas,Fevereiro,21°,30°,26
+Palmeira dos Índios,Alagoas,Março,21°,30°,87
+Palmeira dos Índios,Alagoas,Abril,21°,28°,102
+Palmeira dos Índios,Alagoas,Maio,20°,26°,164
+Palmeira dos Índios,Alagoas,Junho,19°,24°,198
+Palmeira dos Índios,Alagoas,Julho,18°,23°,140
+Palmeira dos Índios,Alagoas,Agosto,18°,23°,52
+Palmeira dos Índios,Alagoas,Setembro,18°,25°,48
+Palmeira dos Índios,Alagoas,Outubro,20°,28°,10
+Palmeira dos Índios,Alagoas,Novembro,20°,30°,11
+Palmeira dos Índios,Alagoas,Dezembro,21°,30°,74
+Pão de Açúcar,Alagoas,Janeiro,23°,33°,39
+Pão de Açúcar,Alagoas,Fevereiro,23°,33°,36
+Pão de Açúcar,Alagoas,Março,23°,33°,67
+Pão de Açúcar,Alagoas,Abril,21°,32°,70
+Pão de Açúcar,Alagoas,Maio,21°,29°,90
+Pão de Açúcar,Alagoas,Junho,20°,27°,104
+Pão de Açúcar,Alagoas,Julho,19°,26°,87
+Pão de Açúcar,Alagoas,Agosto,19°,27°,56
+Pão de Açúcar,Alagoas,Setembro,19°,30°,30
+Pão de Açúcar,Alagoas,Outubro,21°,32°,18
+Pão de Açúcar,Alagoas,Novembro,22°,34°,20
+Pão de Açúcar,Alagoas,Dezembro,23°,34°,26
+Pariconha,Alagoas,Janeiro,23°,34°,56
+Pariconha,Alagoas,Fevereiro,23°,34°,46
+Pariconha,Alagoas,Março,23°,33°,81
+Pariconha,Alagoas,Abril,22°,32°,63
+Pariconha,Alagoas,Maio,21°,30°,47
+Pariconha,Alagoas,Junho,20°,27°,50
+Pariconha,Alagoas,Julho,19°,27°,48
+Pariconha,Alagoas,Agosto,19°,28°,25
+Pariconha,Alagoas,Setembro,20°,31°,13
+Pariconha,Alagoas,Outubro,21°,33°,11
+Pariconha,Alagoas,Novembro,22°,34°,20
+Pariconha,Alagoas,Dezembro,23°,34°,44
+Paripueira,Alagoas,Janeiro,24°,29°,63
+Paripueira,Alagoas,Fevereiro,25°,30°,77
+Paripueira,Alagoas,Março,25°,30°,112
+Paripueira,Alagoas,Abril,24°,29°,165
+Paripueira,Alagoas,Maio,24°,28°,189
+Paripueira,Alagoas,Junho,23°,26°,232
+Paripueira,Alagoas,Julho,23°,26°,223
+Paripueira,Alagoas,Agosto,22°,26°,154
+Paripueira,Alagoas,Setembro,23°,26°,85
+Paripueira,Alagoas,Outubro,23°,28°,49
+Paripueira,Alagoas,Novembro,24°,29°,36
+Paripueira,Alagoas,Dezembro,24°,29°,38
+Passo de Camaragibe,Alagoas,Janeiro,21°,29°,76
+Passo de Camaragibe,Alagoas,Fevereiro,22°,30°,98
+Passo de Camaragibe,Alagoas,Março,22°,30°,146
+Passo de Camaragibe,Alagoas,Abril,21°,29°,207
+Passo de Camaragibe,Alagoas,Maio,21°,27°,235
+Passo de Camaragibe,Alagoas,Junho,21°,25°,281
+Passo de Camaragibe,Alagoas,Julho,20°,24°,255
+Passo de Camaragibe,Alagoas,Agosto,20°,25°,162
+Passo de Camaragibe,Alagoas,Setembro,20°,26°,97
+Passo de Camaragibe,Alagoas,Outubro,20°,27°,51
+Passo de Camaragibe,Alagoas,Novembro,21°,29°,46
+Passo de Camaragibe,Alagoas,Dezembro,21°,29°,44
+Paulo Jacinto,Alagoas,Janeiro,20°,30°,54
+Paulo Jacinto,Alagoas,Fevereiro,21°,30°,61
+Paulo Jacinto,Alagoas,Março,21°,30°,93
+Paulo Jacinto,Alagoas,Abril,20°,28°,128
+Paulo Jacinto,Alagoas,Maio,20°,26°,148
+Paulo Jacinto,Alagoas,Junho,19°,24°,195
+Paulo Jacinto,Alagoas,Julho,18°,23°,186
+Paulo Jacinto,Alagoas,Agosto,18°,23°,127
+Paulo Jacinto,Alagoas,Setembro,18°,25°,70
+Paulo Jacinto,Alagoas,Outubro,19°,28°,35
+Paulo Jacinto,Alagoas,Novembro,20°,30°,25
+Paulo Jacinto,Alagoas,Dezembro,20°,30°,32
+Penedo,Alagoas,Janeiro,25°,30°,43
+Penedo,Alagoas,Fevereiro,25°,30°,44
+Penedo,Alagoas,Março,25°,30°,75
+Penedo,Alagoas,Abril,25°,29°,125
+Penedo,Alagoas,Maio,24°,28°,159
+Penedo,Alagoas,Junho,24°,26°,163
+Penedo,Alagoas,Julho,23°,26°,143
+Penedo,Alagoas,Agosto,23°,26°,92
+Penedo,Alagoas,Setembro,23°,27°,59
+Penedo,Alagoas,Outubro,24°,28°,39
+Penedo,Alagoas,Novembro,24°,29°,28
+Penedo,Alagoas,Dezembro,25°,30°,27
+Piaçabuçu,Alagoas,Janeiro,25°,30°,52
+Piaçabuçu,Alagoas,Fevereiro,25°,30°,55
+Piaçabuçu,Alagoas,Março,25°,30°,93
+Piaçabuçu,Alagoas,Abril,25°,29°,154
+Piaçabuçu,Alagoas,Maio,24°,28°,184
+Piaçabuçu,Alagoas,Junho,24°,26°,187
+Piaçabuçu,Alagoas,Julho,23°,26°,165
+Piaçabuçu,Alagoas,Agosto,23°,26°,103
+Piaçabuçu,Alagoas,Setembro,23°,27°,68
+Piaçabuçu,Alagoas,Outubro,24°,28°,47
+Piaçabuçu,Alagoas,Novembro,24°,29°,34
+Piaçabuçu,Alagoas,Dezembro,25°,30°,31
+Piaçaçuba,Alagoas,Janeiro,25°,30°,52
+Piaçaçuba,Alagoas,Fevereiro,25°,30°,55
+Piaçaçuba,Alagoas,Março,25°,30°,93
+Piaçaçuba,Alagoas,Abril,25°,29°,154
+Piaçaçuba,Alagoas,Maio,24°,28°,184
+Piaçaçuba,Alagoas,Junho,24°,26°,187
+Piaçaçuba,Alagoas,Julho,23°,26°,165
+Piaçaçuba,Alagoas,Agosto,23°,26°,103
+Piaçaçuba,Alagoas,Setembro,23°,27°,68
+Piaçaçuba,Alagoas,Outubro,24°,28°,47
+Piaçaçuba,Alagoas,Novembro,24°,29°,34
+Piaçaçuba,Alagoas,Dezembro,25°,30°,31
+Pilar,Alagoas,Janeiro,21°,30°,65
+Pilar,Alagoas,Fevereiro,22°,30°,86
+Pilar,Alagoas,Março,22°,30°,132
+Pilar,Alagoas,Abril,21°,29°,213
+Pilar,Alagoas,Maio,20°,27°,234
+Pilar,Alagoas,Junho,20°,25°,277
+Pilar,Alagoas,Julho,19°,24°,243
+Pilar,Alagoas,Agosto,18°,24°,152
+Pilar,Alagoas,Setembro,19°,26°,95
+Pilar,Alagoas,Outubro,20°,28°,54
+Pilar,Alagoas,Novembro,21°,30°,42
+Pilar,Alagoas,Dezembro,21°,30°,44
+Pindoba,Alagoas,Janeiro,20°,30°,54
+Pindoba,Alagoas,Fevereiro,21°,30°,61
+Pindoba,Alagoas,Março,21°,30°,93
+Pindoba,Alagoas,Abril,20°,28°,128
+Pindoba,Alagoas,Maio,20°,26°,148
+Pindoba,Alagoas,Junho,19°,24°,195
+Pindoba,Alagoas,Julho,18°,23°,186
+Pindoba,Alagoas,Agosto,18°,23°,127
+Pindoba,Alagoas,Setembro,18°,25°,70
+Pindoba,Alagoas,Outubro,19°,28°,35
+Pindoba,Alagoas,Novembro,20°,30°,25
+Pindoba,Alagoas,Dezembro,20°,30°,32
+Piranhas,Alagoas,Janeiro,23°,34°,43
+Piranhas,Alagoas,Fevereiro,23°,34°,38
+Piranhas,Alagoas,Março,23°,33°,69
+Piranhas,Alagoas,Abril,22°,32°,65
+Piranhas,Alagoas,Maio,21°,30°,67
+Piranhas,Alagoas,Junho,20°,27°,83
+Piranhas,Alagoas,Julho,19°,27°,74
+Piranhas,Alagoas,Agosto,19°,28°,46
+Piranhas,Alagoas,Setembro,20°,31°,22
+Piranhas,Alagoas,Outubro,21°,33°,15
+Piranhas,Alagoas,Novembro,22°,34°,19
+Piranhas,Alagoas,Dezembro,23°,34°,36
+Poço das Trincheiras,Alagoas,Janeiro,23°,33°,41
+Poço das Trincheiras,Alagoas,Fevereiro,23°,33°,44
+Poço das Trincheiras,Alagoas,Março,23°,33°,73
+Poço das Trincheiras,Alagoas,Abril,21°,32°,72
+Poço das Trincheiras,Alagoas,Maio,21°,29°,77
+Poço das Trincheiras,Alagoas,Junho,20°,27°,98
+Poço das Trincheiras,Alagoas,Julho,19°,26°,85
+Poço das Trincheiras,Alagoas,Agosto,19°,27°,52
+Poço das Trincheiras,Alagoas,Setembro,19°,30°,26
+Poço das Trincheiras,Alagoas,Outubro,21°,32°,16
+Poço das Trincheiras,Alagoas,Novembro,22°,34°,18
+Poço das Trincheiras,Alagoas,Dezembro,23°,34°,34
+Porto Calvo,Alagoas,Janeiro,21°,29°,76
+Porto Calvo,Alagoas,Fevereiro,22°,30°,98
+Porto Calvo,Alagoas,Março,22°,30°,146
+Porto Calvo,Alagoas,Abril,21°,29°,207
+Porto Calvo,Alagoas,Maio,21°,27°,235
+Porto Calvo,Alagoas,Junho,21°,25°,281
+Porto Calvo,Alagoas,Julho,20°,24°,255
+Porto Calvo,Alagoas,Agosto,20°,25°,162
+Porto Calvo,Alagoas,Setembro,20°,26°,97
+Porto Calvo,Alagoas,Outubro,20°,27°,51
+Porto Calvo,Alagoas,Novembro,21°,29°,46
+Porto Calvo,Alagoas,Dezembro,21°,29°,44
+Porto de Pedras,Alagoas,Janeiro,21°,29°,76
+Porto de Pedras,Alagoas,Fevereiro,22°,30°,98
+Porto de Pedras,Alagoas,Março,22°,30°,146
+Porto de Pedras,Alagoas,Abril,21°,29°,207
+Porto de Pedras,Alagoas,Maio,21°,27°,235
+Porto de Pedras,Alagoas,Junho,21°,25°,281
+Porto de Pedras,Alagoas,Julho,20°,24°,255
+Porto de Pedras,Alagoas,Agosto,20°,25°,162
+Porto de Pedras,Alagoas,Setembro,20°,26°,97
+Porto de Pedras,Alagoas,Outubro,20°,27°,51
+Porto de Pedras,Alagoas,Novembro,21°,29°,46
+Porto de Pedras,Alagoas,Dezembro,21°,29°,44
