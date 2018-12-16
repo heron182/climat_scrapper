@@ -3,11 +3,12 @@ A simple climatempo web scrapper that gets climatology information about cities 
 
 
 ### Usage:
-    $ climat_scrapper: python -m scrapper.scrapper [city_limit]
+    $ climat_scrapper: pip install -e .
+    $ climat_scrapper: climat_scrapper [city_limit]
 
-City limit defaults to 101 and can be overwriten:
+City limit defaults to 100 and can be overwriten:
 
-    $ climat_scrapper: python -m scrapper.scrapper 500
+    $ climat_scrapper: climat_scrapper 50
 
 
 ### Tabular Sample:

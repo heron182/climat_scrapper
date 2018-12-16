@@ -9,20 +9,21 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from selenium.webdriver.support.ui import Select
 
-from scrapper.contants import (
+from .constants import (
     BTN_SELECTOR,
     CITY_LIMIT,
     CITY_SELECTOR,
     MODAL_SELECTOR,
     STATE_SELECTOR,
 )
-from scrapper.utils import dump_cities, wait_for_element
+from .utils import dump_cities, wait_for_element
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("scrapper")
 
+CITY_DATA = []
 
-def cities_from_state(state):
+def cities_from_state(state, driver):
     EXCLUDE_STATE_OPTS = ["Nome do Estado", "BUSCANDO..."]
     current_state = getattr(state, "text", state)
 
@@ -83,10 +84,10 @@ def scrape_city_data(current_city, current_state, driver):
     df.insert(1, "Estado", current_state)
     df.assign(Cidade=current_city, Estado=current_state)
 
-    detailist.append(df)
-    if len(detailist) > CITY_LIMIT:
+    CITY_DATA.append(df)
+    if len(CITY_DATA) > CITY_LIMIT:
         logger.info("%s cities scrapped. Exiting..." % CITY_LIMIT)
-        dump_cities(detailist)
+        dump_cities(CITY_DATA)
 
     wait_for_element(driver, (By.CSS_SELECTOR, MODAL_SELECTOR))
     driver.execute_script(
@@ -115,12 +116,12 @@ def scrape(url, driver):
     for state in state_soup:
         current_state = getattr(state, "text", state)
 
-        for city in cities_from_state(current_state):
+        for city in cities_from_state(current_state, driver):
             current_city = getattr(city, "text", city)
             scrape_city_data(current_city, current_state, driver)
 
 
-if __name__ == "__main__":
+def main():
     url = "https://www.climatempo.com.br/climatologia/2/santos-sp"
 
     chrome_options = Options()
@@ -136,8 +137,6 @@ if __name__ == "__main__":
     chrome_options.add_experimental_option("prefs", prefs)
     chrome_options.add_argument("--headless")
     driver = webdriver.Chrome(desired_capabilities=caps, chrome_options=chrome_options)
-
-    detailist = []
 
     try:
         CITY_LIMIT = int(sys.argv[1])  # NOQA

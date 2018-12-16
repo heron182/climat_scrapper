@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.expected_conditions import _find_element
 from selenium.webdriver.support.ui import WebDriverWait
 
-from scrapper.contants import MODAL_SELECTOR, TIMEOUT
+from .constants import MODAL_SELECTOR, TIMEOUT
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
